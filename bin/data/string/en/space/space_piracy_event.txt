@@ -1,0 +1,7 @@
+arrival = We have left hyperspace as a result of an unforeseen gravitational event. All hands to battle stations, this could be an ambush.
+disabled1 = We have been disabled, start the evacuation. The ship won't hold together much longer.
+disabled2 = The ship is coming apart, launching the last escape pod. May the force be with us.
+hyper1 = Restart the hyperspace calculations. We need to get away before our defenses fail!
+hyper2 = The hyperspace calculations are 50% complete, just hold out a little longer.
+hyper3 = The hyperspace calculations are 75% complete. Everyone, brace yourself for the jump to hyperspace.
+hyperfinished = We made it! We're making the jump to hyperspace.

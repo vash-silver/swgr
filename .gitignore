@@ -1,0 +1,27 @@
+# Game files: copyrighted and large. Re-create them with the commands in README.md.
+/original/
+/extracted/
+/beautified/
+
+# Build output (rebuild with csc, see README.md) and game-derived buff icons (tools/buff-icons.js)
+/bin/*.exe
+/bin/buff-icons/
+
+# Personal settings and window positions written next to the exe
+/bin/*.cfg
+/bin/*.pos
+/bin/*.txt
+
+# Font experiments: only the installed package (mod/package) and the source fonts are kept
+/mod/build*/
+/mod/package-*/
+
+# Local data build outputs (the shareable copies live in bin/data/, built by tools/make-data-pack.js)
+/bin/ship-parts.tsv
+
+# Archive decryption tooling and its notes: kept local, never shared
+/tools/twofish.js
+/tools/toc.js
+/tools/keysearch.js
+/tools/tre-extract.js
+/notes/tre-format.md

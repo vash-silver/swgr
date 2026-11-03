@@ -1,0 +1,1646 @@
+# template	cert level	name   (tools/ship-part-table.js; game-derived, not synced)
+object/tangible/ship/components/armor/shared_arm_corellian_advanced_durasteel.iff	7	Corellian Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_cheap_durasteel.iff	1	Corellian Engineering Corporation Cheap Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_corellian_elite_durasteel.iff	9	Corellian Elite Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_enhanced_elite_plastisteel.iff	10	Corellian Enhanced Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_corellian_heavy_durasteel.iff	6	Corellian Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_improved_advanced_durasteel.iff	8	Corellian Improved Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_light_durasteel.iff	2	Corellian Engineering Corporation Light Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_modified_heavy_durasteel.iff	7	Corellian Modified Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_reinforced_light_durasteel.iff	3	Corellian Engineering Corp. Reinforced Light Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_reinforced_supreme_durasteel.iff	9	Corellian Reinforced Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_special_standard_durasteel.iff	6	Corellian Special Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_corellian_standard_durasteel.iff	4	Corellian Engineering Corp. Standard Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_corellian_supreme_durasteel.iff	8	Corellian Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_cygnus_light_weave.iff	2	Cygnus Light Armor Weave
+object/tangible/ship/components/armor/shared_arm_cygnus_standard_weave.iff	3	Cygnus Standard Durasteel Weave
+object/tangible/ship/components/armor/shared_arm_fibertech_steel_plating.iff	8	Fibertech Steel Plating
+object/tangible/ship/components/armor/shared_arm_freitek_deluxe_light.iff	2	FreiTek Inc. Deluxe Light Durasteel
+object/tangible/ship/components/armor/shared_arm_freitek_standard.iff	4	FreiTek Inc. Standard Armor
+object/tangible/ship/components/armor/shared_arm_gallofree_mk1.iff	1	Gallofree Mark I Starfighter Armor
+object/tangible/ship/components/armor/shared_arm_gallofree_mk2.iff	3	Gallofree Mark II Starfighter Armor
+object/tangible/ship/components/armor/shared_arm_generic.iff	3	Generic Armor
+object/tangible/ship/components/armor/shared_arm_incom_light_plate.iff	1	Incom Light Starship Plating
+object/tangible/ship/components/armor/shared_arm_incom_modified_standard_plate.iff	4	Incom Modified Standard Plate
+object/tangible/ship/components/armor/shared_arm_incom_standard_plate.iff	3	Incom Standard Plating
+object/tangible/ship/components/armor/shared_arm_kessel_imperial_rendili_crystalline_durasteel.iff	9	Rendili Crystalline Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_kessel_imperial_sds_imperial_impervious.iff	10	Sienar Design Systems "Impervious" Imperial Durasteel
+object/tangible/ship/components/armor/shared_arm_kessel_imperial_sfs_imperial_finest.iff	9	Sienar Fleet Systems "Imperial Finest" Durasteel
+object/tangible/ship/components/armor/shared_arm_kessel_rebel_mandal_corrugated_plastisteel.iff	9	MandalMotors Corrugated Plastisteel
+object/tangible/ship/components/armor/shared_arm_kessel_rebel_slayn_flexsteel_multilayer.iff	10	Slayn and Korpil Flexsteel Multi-Layer Armor
+object/tangible/ship/components/armor/shared_arm_kessel_rebel_sorosuub_spidershell_plating.iff	9	SoroSuub "Spider-Shell" Armor Plating
+object/tangible/ship/components/armor/shared_arm_koensayr_advanced_durasteel.iff	6	Koensayr Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_b5_durasteel.iff	1	Koensayr B5 Durasteel Armor
+object/tangible/ship/components/armor/shared_arm_koensayr_b9_durasteel.iff	1	Koensayr B9 Durasteel Armor
+object/tangible/ship/components/armor/shared_arm_koensayr_elite_plastisteel.iff	9	Koensayr Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_koensayr_enhanced_heavy_durasteel.iff	5	Koensayr Enhanced Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_enhanced_standard_durasteel.iff	4	Koensayr Enhanced Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_heavy_durasteel.iff	4	Koensayr Heavy Durasteel Armor
+object/tangible/ship/components/armor/shared_arm_koensayr_improved_elite_plastisteel.iff	9	Koensayr Improved Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_koensayr_light_advanced_durasteel.iff	5	Koensayr Light Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_limited_heavy_durasteel.iff	6	Koensayr Limited Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_limited_supreme_durasteel.iff	8	Koensayr Limited Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_promotional_b9_durasteel.iff	3	Koensayr Promotional Edition B9 Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_reinforced_b5_durasteel.iff	2	Koensayr Reinforced B5 Durasteel Armor
+object/tangible/ship/components/armor/shared_arm_koensayr_special_supreme_durasteel.iff	8	Koensayr Special Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_standard_durasteel.iff	3	Koensayr Standard Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_koensayr_supreme_durasteel.iff	7	Koensayr Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_koensayr_thick_advanced_durasteel.iff	7	Koensayr Thick Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_advanced_durasteel.iff	6	Kuat Systems Engineering Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_customized_advanced_durasteel.iff	7	Kuat Systems Engineering Customized Advanced Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_elite_durasteel.iff	8	Kuat Systems Engineering Elite Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_heavy_durasteel.iff	4	Kuat Systems Engineering Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_intermediate_durasteel.iff	2	Kuat Systems Engineering Intermediate Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_kse_limited_heavy_durasteel.iff	6	Kuat Systems Engineering Limited Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_modified_heavy_durasteel.iff	5	Kuat Systems Engineering Modified Heavy Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_modified_light_durasteel.iff	2	Kuat Systems Engineering Modified Light Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_modified_supreme_durasteel.iff	8	Kuat Systems Engineering Modified Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_standard_durasteel.iff	3	Kuat Systems Engineering Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_kse_supreme_durasteel.iff	7	Kuat Systems Engineering Supreme Durasteel
+object/tangible/ship/components/armor/shared_arm_mandal_advanced_composite.iff	7	MandalMotors Advanced Composite Armor
+object/tangible/ship/components/armor/shared_arm_mandal_composite_j5.iff	1	MandalMotors J5 Composite Armor
+object/tangible/ship/components/armor/shared_arm_mandal_composite_j7.iff	3	MandalMotors J7 Composite Armor
+object/tangible/ship/components/armor/shared_arm_mandal_custom_heavy_composite.iff	5	MandalMotors Custom Heavy Composite
+object/tangible/ship/components/armor/shared_arm_mandal_double_insulated_i5.iff	6	MandalMotors Double Insulated I5
+object/tangible/ship/components/armor/shared_arm_mandal_double_insulated_i7.iff	8	MandalMotors Double Insulated I7
+object/tangible/ship/components/armor/shared_arm_mandal_double_plated_composite_j7.iff	4	MandalMotors Double Plated J7 Composite Armor
+object/tangible/ship/components/armor/shared_arm_mandal_elite_composite.iff	10	MandalMotors Elite Composite
+object/tangible/ship/components/armor/shared_arm_mandal_enhanced_elite_composite.iff	10	MandalMotors Enhanced Elite Composite
+object/tangible/ship/components/armor/shared_arm_mandal_enhanced_heavy_composite.iff	6	MandalMotors Enhanced Heavy Composite
+object/tangible/ship/components/armor/shared_arm_mandal_heavy_composite.iff	5	MandalMotors Heavy Composite
+object/tangible/ship/components/armor/shared_arm_mandal_insulated_i7.iff	7	MandalMotors Insulated I7
+object/tangible/ship/components/armor/shared_arm_mandal_modified_supreme_composite.iff	9	MandalMotors Modified Supreme Composite
+object/tangible/ship/components/armor/shared_arm_mandal_modifier_composite_j5.iff	2	MandalMotors Modified J5 Composite Armor
+object/tangible/ship/components/armor/shared_arm_mandal_reinforced_advanced_composite.iff	8	MandalMotors Reinforced Advanced Composite
+object/tangible/ship/components/armor/shared_arm_mandal_supreme_composite.iff	9	MandalMotors Supreme Composite
+object/tangible/ship/components/armor/shared_arm_mission_reward_imperial_rss_special_durasteel.iff	8	Republic Sienar Systems Special Durasteel
+object/tangible/ship/components/armor/shared_arm_mission_reward_imperial_sfs_light_military.iff	4	Sienar Fleet Systems Light Military Grade Durasteel
+object/tangible/ship/components/armor/shared_arm_mission_reward_neutral_kse_handcrafted.iff	6	Kuat Systems Engineering Handcrafted Durasteel Plating
+object/tangible/ship/components/armor/shared_arm_mission_reward_rebel_corellian_triplate.iff	6	Corellian Engineering Corp. Triplate Armor
+object/tangible/ship/components/armor/shared_arm_mission_reward_rebel_incom_ultralight.iff	1	Incom Ultralight Armor Plating
+object/tangible/ship/components/armor/shared_arm_moncal_advanced_weave.iff	10	Mon Calamari Advanced Weave
+object/tangible/ship/components/armor/shared_arm_moncal_elite_weave.iff	10	Mon Calamari Elite Weave
+object/tangible/ship/components/armor/shared_arm_moncal_improved_light_weave.iff	2	Mon Calamari Improved Light Durasteel Weave
+object/tangible/ship/components/armor/shared_arm_moncal_light_weave.iff	1	Mon Calamari Light Durasteel Weave
+object/tangible/ship/components/armor/shared_arm_moncal_supreme_weave.iff	10	Mon Calamari Supreme Weave
+object/tangible/ship/components/armor/shared_arm_prototype_armor.iff	1	Prototype Armor
+object/tangible/ship/components/armor/shared_arm_rendili_tough_plate.iff	2	Rendili Tough Starship Plating
+object/tangible/ship/components/armor/shared_arm_reward_alderaan_elite.iff	10	Elite Alderaan Armor
+object/tangible/ship/components/armor/shared_arm_reward_baktoid_elite.iff	10	Elite Baktoid Armor
+object/tangible/ship/components/armor/shared_arm_reward_freitek_elite.iff	10	Elite Freitek Armor
+object/tangible/ship/components/armor/shared_arm_reward_mandal_elite.iff	10	Elite Mandal Armor
+object/tangible/ship/components/armor/shared_arm_reward_subpro_elite.iff	10	Elite Subpro Armor
+object/tangible/ship/components/armor/shared_arm_rss_light_plastisteel.iff	1	Republic Sienar Systems Light Plastisteel Armor
+object/tangible/ship/components/armor/shared_arm_sds_triplate_system.iff	4	Sienar Design Systems Tri-Plate Armor System
+object/tangible/ship/components/armor/shared_arm_sfs_enhanced_standard_durasteel.iff	4	Sienar Fleet Systems Enhanced Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_sfs_light_durasteel.iff	1	Sienar Fleet Systems Light Durasteel Armor
+object/tangible/ship/components/armor/shared_arm_sfs_standard_durasteel.iff	3	Sienar Fleet Systems Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_slayn_tech_weave.iff	2	Slayn and Korpil Light Tech Weave
+object/tangible/ship/components/armor/shared_arm_sorosuub_advanced_plastisteel.iff	9	SoroSuub Advanced Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_elite_plastisteel.iff	10	SoroSuub Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_enhanced_advanced_plastisteel.iff	9	SoroSuub Enhanced Advanced Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_heavy_plastisteel.iff	5	SoroSuub Heavy Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_improved_light_plastisteel.iff	2	SoroSuub Improved Light Plastisteel Armor
+object/tangible/ship/components/armor/shared_arm_sorosuub_intemediate_plastisteel.iff	3	SoroSuub Intermediate Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_modified_elite_plastisteel.iff	10	SoroSuub Modified Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_sorosuub_special_intermediate_durasteel.iff	4	SoroSuub Special Edition Intermediate Durasteel
+object/tangible/ship/components/armor/shared_arm_subpro_advanced_plasisteel.iff	8	SubPro Advanced Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_bargain_plastisteel.iff	1	SubPro Bargain Plastisteel Armor
+object/tangible/ship/components/armor/shared_arm_subpro_elite_plastisteel.iff	10	SubPro Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_enhanced_supreme_plastisteel.iff	9	SubPro Enhanced Supreme Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_experimental_advanced_plastisteel.iff	8	SubPro Experimental Advanced Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_heavy_plastisteel.iff	7	SubPro Heavy Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_improved_light_plastisteel.iff	3	SubPro Improved Light Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_improved_standard_durasteel.iff	5	SubPro Improved Standard Durasteel
+object/tangible/ship/components/armor/shared_arm_subpro_limited_heavy_plastisteel.iff	7	SubPro Limited Heavy Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_special_elite_plastisteel.iff	10	SubPro Special Elite Plastisteel
+object/tangible/ship/components/armor/shared_arm_subpro_standard_plastisteel.iff	4	SubPro Standard Plastisteel Armor
+object/tangible/ship/components/armor/shared_arm_subpro_supreme_plastisteel.iff	9	SubPro Supreme Plastisteel
+object/tangible/ship/components/armor/shared_arm_ur_0015_rancor.iff	6	
+object/tangible/ship/components/armor/shared_armor_alderaan_royal_plate.iff	4	Alderaan Royal Plate Armor
+object/tangible/ship/components/armor/shared_armor_alderaan_royal_weave.iff	4	Alderaan Royal Weave Armor
+object/tangible/ship/components/armor/shared_armor_baktoid_mtt_prototype.iff	2	Baktoid MTT Prototype Armor
+object/tangible/ship/components/armor/shared_armor_baktoid_shock_armor.iff	2	Baktoid Shock Armor
+object/tangible/ship/components/armor/shared_armor_baktoid_spider_shell_g2.iff	2	Baktoid G2 Spider Shell Armor
+object/tangible/ship/components/armor/shared_armor_freitek_es4_durasteel.iff	3	Freitek ES-4 Durasteel Armor
+object/tangible/ship/components/armor/shared_armor_freitek_ew6_prototype.iff	3	Freitek EW6 Prototype Armor
+object/tangible/ship/components/armor/shared_armor_mandal_composite_j14.iff	3	MandalMotors J-14 Composite Armor
+object/tangible/ship/components/armor/shared_armor_mandal_insulated_i5.iff	4	MandalMotors I5 Insulated Armor
+object/tangible/ship/components/armor/shared_armor_seinar_coated_plasteel.iff	1	Sienar Coated Plastisteel Armor
+object/tangible/ship/components/armor/shared_armor_seinar_enhanced_plasteel.iff	1	Sienar Enhanced Plastisteel Armor
+object/tangible/ship/components/armor/shared_armor_subpro_corrugated_durasteel.iff	6	SubPro Corrugated Durasteel Armor
+object/tangible/ship/components/armor/shared_armor_subpro_light_plasteel.iff	5	SubPro Light Plastisteel Armor
+object/tangible/ship/components/armor/shared_armor_subpro_reinforced_plasteel.iff	6	SubPro Reinforced Plastisteel Armor
+object/tangible/ship/components/armor/shared_armor_test.iff	1	
+object/tangible/ship/components/armor/shared_armor_tiefighter_basic.iff	1	Basic Armor
+object/tangible/ship/components/armor/shared_armor_trilon_custom.iff	5	Customized Trilon Armor
+object/tangible/ship/components/armor/shared_armor_trilon_unknown.iff	5	Unknown Trilon Armor
+object/tangible/ship/components/armor/shared_armor_z95_basic.iff	1	Basic Armor
+object/tangible/ship/components/booster/shared_booster_test.iff	1	
+object/tangible/ship/components/booster/shared_bst_corellian_advanced_thrust_enhancer.iff	7	Corellian Engineering Corp. Advanced Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_elite_thrust_enhancer.iff	9	Corellian Engineering Corp. Elite Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_experimental_tjh3.iff	2	Corellian Engineering Corp. Experimental TJH-3 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_corellian_heavy_thrust_enhancer.iff	5	Corellian Engineering Corp. Heavy Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_highly_modified_elite_thrust_enhancer.iff	10	Corellian Engineering Corp. Highly Modified Elite Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_performance_advanced_thrust_enhancer.iff	8	Corellian Engineering Corp. Performance Advanced Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_promotional_standard_thrust_enhancer.iff	4	Corellian Engineering Corp. Promotional Edition Standard Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_standard_thrust_enhancer.iff	3	Corellian Engineering Corp. Standard Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_corellian_tjh3.iff	1	Corellian Engineering Corp. TJH-3 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_corellian_tuned_heavy_thrust_enhancer.iff	6	Corellian Engineering Corp. Tuned Heavy Thrust Enhancer
+object/tangible/ship/components/booster/shared_bst_cygnus_flashboost3.iff	2	Cygnus "Flash-Booster 3" Starship Boosters
+object/tangible/ship/components/booster/shared_bst_cygnus_flashboost4.iff	3	Cygnus "Flashboost 4" Boosters
+object/tangible/ship/components/booster/shared_bst_freitek_outrunner_x1.iff	2	FreiTek Inc. Outrunner X1 Boosters
+object/tangible/ship/components/booster/shared_bst_gallofree_light.iff	1	Gallofree Light Starship Boosters
+object/tangible/ship/components/booster/shared_bst_generic.iff	1	Generic Booster
+object/tangible/ship/components/booster/shared_bst_incom_deluxe_fynock.iff	8	Incom Deluxe "Fynock" Boosters
+object/tangible/ship/components/booster/shared_bst_incom_elite_sls_1.iff	10	Incom Elite SLS-1 Boosters
+object/tangible/ship/components/booster/shared_bst_incom_enhanced_mynock.iff	4	Incom Enhanced "Mynock" Boosters
+object/tangible/ship/components/booster/shared_bst_incom_fynock.iff	7	Incom "Fynock" Boosters
+object/tangible/ship/components/booster/shared_bst_incom_intimidator_mk1.iff	1	Incom Intimidator Mark I Booster
+object/tangible/ship/components/booster/shared_bst_incom_intimidator_mk2.iff	3	Incom Intimidator Mark II Boosters
+object/tangible/ship/components/booster/shared_bst_incom_intimidator_mk3.iff	5	Incom Intimidator Mark III Boosters
+object/tangible/ship/components/booster/shared_bst_incom_intimidator_mk4.iff	7	Incom Intimidator Mark IV Boosters
+object/tangible/ship/components/booster/shared_bst_incom_mynock.iff	3	Incom "Mynock" Starship Boosters
+object/tangible/ship/components/booster/shared_bst_incom_nkj31.iff	1	Incom NKJ-31 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_incom_performance_nkj31.iff	2	Incom Performance NKJ-31 Boosters
+object/tangible/ship/components/booster/shared_bst_incom_sls_1.iff	9	Incom SLS-1 Boosters
+object/tangible/ship/components/booster/shared_bst_incom_supercharged_vynock.iff	6	Incom Supercharged "Vynock" Boosters
+object/tangible/ship/components/booster/shared_bst_incom_vynock.iff	5	Incom "Vynock" Boosters
+object/tangible/ship/components/booster/shared_bst_kde_br12.iff	4	Kuat Drive Yard BR-12 Booster
+object/tangible/ship/components/booster/shared_bst_kessel_imperial_cygnus_hyperthrust.iff	9	Cygnus "Hyperthruster" Elite Booster
+object/tangible/ship/components/booster/shared_bst_kessel_imperial_sds_experimental_b7.iff	10	Sienar Design Systems "B7 Experimental" Elite Booster
+object/tangible/ship/components/booster/shared_bst_kessel_imperial_sfs_ultra_thrust.iff	9	Sienar Fleet Systems "Ultra-Thrust" Elite Booster
+object/tangible/ship/components/booster/shared_bst_kessel_rebel_incom_quicksilver.iff	9	Incom "Quicksilver" Elite Booster
+object/tangible/ship/components/booster/shared_bst_kessel_rebel_incom_windrunner.iff	10	Incom "Windrunner" Elite Booster
+object/tangible/ship/components/booster/shared_bst_kessel_rebel_mandal_lightning_m1.iff	9	MandalMotors "M1 Lightning" Elite Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_advanced.iff	7	Koensayr Advanced Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_charged_advanced.iff	8	Koensayr Charged Advanced Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_deluxe_elite.iff	10	Koensayr Deluxe Elite Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_elite.iff	9	Koensayr Elite Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_evh12.iff	1	Koensayr EVH-12 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_koensayr_heavy.iff	5	Koensayr Heavy Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_improved_standard.iff	4	Koensayr Improved Standard Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_modified_heavy.iff	6	Koensayr Modified Heavy Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_racer_mk1.iff	5	Koensayr "Racer" Mark I Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_racer_mk2.iff	7	Koensayr "Racer" Mark II Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_racer_mk3.iff	9	Koensayr "Racer" Mark III Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_racer_mk4.iff	10	Koensayr "Racer" Mark IV Booster
+object/tangible/ship/components/booster/shared_bst_koensayr_special_evh12.iff	2	Koensayr Special Edition EVH-12 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_koensayr_standard.iff	3	Koensayr Standard Booster
+object/tangible/ship/components/booster/shared_bst_kse_als_1.iff	9	Kuat Systems Engineering ALS-1 Booster
+object/tangible/ship/components/booster/shared_bst_kse_bti1.iff	3	Kuat Systems Engineering BTI-1 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_bti2.iff	5	Kuat Systems Engineering BTI-2 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_bti3.iff	7	Kuat Systems Engineering BTI-3 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_cb6.iff	1	Kuat Systems Engineering CB-6 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_deluxe_bti3.iff	8	Kuat Systems Engineering Deluxe BTI-3 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_elite_als_1.iff	10	Kuat Systems Engineering Elite ALS-1
+object/tangible/ship/components/booster/shared_bst_kse_enhanced_bti2.iff	6	Kuat Systems Engineering Enhanced BTI-2 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_performance_bti1.iff	4	Kuat Systems Engineering Performance BTI-1 Boosters
+object/tangible/ship/components/booster/shared_bst_kse_performance_cb6.iff	2	Kuat Systems Engineering Performance CB-6 Boosters
+object/tangible/ship/components/booster/shared_bst_kuat_military_mk1.iff	1	Kuat Drive Yards Mark I Military Grade Boosters
+object/tangible/ship/components/booster/shared_bst_kuat_military_mk2.iff	4	Kuat Drive Yards Mark II Military Grade Boosters
+object/tangible/ship/components/booster/shared_bst_kuat_military_mk3.iff	8	Kuat Drive Yards Mark III Military Grade Boosters
+object/tangible/ship/components/booster/shared_bst_kuat_military_mk4.iff	10	Kuat Drive Yards Mark IV Military Grade Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_deluxe_jbj_mk4.iff	8	MandalMotors Deluxe JBJ Mark I Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_enhanced_jbj_mk1.iff	2	MandalMotors Enhanced JBJ Mark I Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_improved_jbj_mk3.iff	6	MandalMotors Improved Jbj Mk3
+object/tangible/ship/components/booster/shared_bst_mandal_jbj_mk1.iff	1	MandalMotors JBJ Mark I Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_jbj_mk2.iff	3	MandalMotors JBJ Mark II Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_jbj_mk3.iff	5	MandalMotors JBJ Mark III Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_jbj_mk4.iff	7	MandalMotors JBJ Mark IV Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_jbj_mk5.iff	9	MandalMotors JBJ Mark V Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_limited_jbj_mk5.iff	10	MandalMotors Limited Edition JBJ Mark V Starship Boosters
+object/tangible/ship/components/booster/shared_bst_mandal_modified_jbj_mk2.iff	4	MandalMotors Modified JBJ Mark II Boosters
+object/tangible/ship/components/booster/shared_bst_mission_reward_imperial_rss_ion_booster.iff	4	Republic Sienar Systems Ion Booster
+object/tangible/ship/components/booster/shared_bst_mission_reward_neutral_mandal_m_series.iff	4	MandalMotors "M Series" Booster
+object/tangible/ship/components/booster/shared_bst_mission_reward_neutral_mandal_q_series.iff	8	MandalMotors "Q Series" Booster
+object/tangible/ship/components/booster/shared_bst_mission_reward_rebel_novaldex_hypernova.iff	4	Novaldex "Hypernova" Starship Booster
+object/tangible/ship/components/booster/shared_bst_mission_reward_rebel_qualdex_halcyon.iff	8	Qualdex "Halcyon" Starfighter Booster
+object/tangible/ship/components/booster/shared_bst_moncal_advanced.iff	7	Mon Calamari Advanced Booster
+object/tangible/ship/components/booster/shared_bst_moncal_charged_heavy.iff	6	Mon Calamari Charged Heavy Booster
+object/tangible/ship/components/booster/shared_bst_moncal_deluxe_standard.iff	4	Mon Calamari Deluxe Standard Boosters
+object/tangible/ship/components/booster/shared_bst_moncal_elite.iff	9	Mon Calamari Elite Booster
+object/tangible/ship/components/booster/shared_bst_moncal_enhanced_elite.iff	10	Mon Calamari Enhanced Elite Booster
+object/tangible/ship/components/booster/shared_bst_moncal_heavy.iff	5	Mon Calamari Heavy Booster
+object/tangible/ship/components/booster/shared_bst_moncal_jlc37.iff	1	Mon Calamari JLC-37 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_moncal_limited_jlc37.iff	2	Mon Calamari Limited Edition JLC-37 Starship Boosters
+object/tangible/ship/components/booster/shared_bst_moncal_rare_advanced.iff	8	Mon Calamari Rare Advanced Booster
+object/tangible/ship/components/booster/shared_bst_moncal_standard.iff	3	Mon Calamari Standard Boosters
+object/tangible/ship/components/booster/shared_bst_nova_breaker.iff	6	The "Nova Breaker" 792-W Booster
+object/tangible/ship/components/booster/shared_bst_novaldex_pulsar.iff	5	Novaldex "Pulsar" Booster
+object/tangible/ship/components/booster/shared_bst_novaldex_pulsar_advanced.iff	9	Novaldex "Pulsar" Advanced Booster
+object/tangible/ship/components/booster/shared_bst_novaldex_quasar.iff	7	Novaldex "Quasar" Booster
+object/tangible/ship/components/booster/shared_bst_novaldex_quasar_advanced.iff	10	Novaldex "Quasar" Advanced Booster
+object/tangible/ship/components/booster/shared_bst_qualdex_xboost_mk1.iff	2	Qualdex "X-Boost" Mark I Boosters
+object/tangible/ship/components/booster/shared_bst_qualdex_xboost_mk2.iff	4	Qualdex "X-Boost" Mark II Boosters
+object/tangible/ship/components/booster/shared_bst_qualdex_xboost_mk3.iff	5	Qualdex "X-Boost" Mark III Boosters
+object/tangible/ship/components/booster/shared_bst_qualdex_xboost_mk4.iff	7	Qualdex "X-Boost" Mark IV Boosters
+object/tangible/ship/components/booster/shared_bst_reward_incom_elite.iff	10	
+object/tangible/ship/components/booster/shared_bst_reward_koensayr_elite.iff	10	
+object/tangible/ship/components/booster/shared_bst_reward_kuat_elite.iff	10	
+object/tangible/ship/components/booster/shared_bst_reward_novaldex_elite.iff	10	
+object/tangible/ship/components/booster/shared_bst_reward_qualdex_elite.iff	10	
+object/tangible/ship/components/booster/shared_bst_rss_special.iff	4	Republic Sienar Systems Special Booster
+object/tangible/ship/components/booster/shared_bst_sap_imperial_1.iff	2	Sienar Advanced Projects Imperial-1 Boosters
+object/tangible/ship/components/booster/shared_bst_sap_imperial_2.iff	3	Sienar Advanced Projects Imperial-2 Boosters
+object/tangible/ship/components/booster/shared_bst_sds_enhanced_imperial_2.iff	4	Sienar Design Systems Enhanced Imperial-2 Boosters
+object/tangible/ship/components/booster/shared_bst_sfs_imperial_1.iff	1	Sienar Fleet Systems Imperial-1 Boosters
+object/tangible/ship/components/booster/shared_bst_sfs_imperial_2.iff	3	Sienar Fleet Systems Imperial-2 Boosters
+object/tangible/ship/components/booster/shared_bst_slayn_ion_booster_mk1.iff	1	Slayn and Korpil Mark I Ion-Booster
+object/tangible/ship/components/booster/shared_bst_sorosuub_enhanced_liberator_mk4.iff	8	Sorosuub Enhanced Liberator Mk4
+object/tangible/ship/components/booster/shared_bst_sorosuub_improved_liberator_mk2.iff	4	SoroSuub Improved Mark II "Liberator"
+object/tangible/ship/components/booster/shared_bst_sorosuub_liberator_mk1.iff	1	SoroSuub Mark I Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_liberator_mk2.iff	3	SoroSuub Mark II Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_liberator_mk3.iff	5	SoroSuub Mark III Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_liberator_mk4.iff	7	SoroSuub Mark IV Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_liberator_mk5.iff	9	SoroSuub Mark V Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_prized_liberator_mk1.iff	2	SoroSuub Prized Mark I Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_supercharged_liberator_mk3.iff	6	SoroSuub Supercharged Mark III Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_sorosuub_well_tuned_liberator_mk5.iff	10	SoroSuub Well Tuned Mark V Liberator Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_accelatron_mk1.iff	1	SubPro Mark I "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_accelatron_mk2.iff	3	SubPro Mark II "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_accelatron_mk3.iff	5	SubPro Mark III "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_accelatron_mk4.iff	7	SubPro Mark IV "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_accelatron_mk5.iff	9	SubPro Mark IV "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_deluxe_accelatron_mk3.iff	6	SubPro Deluxe Mark III "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_elite_accelatron_mk5.iff	10	Subpro Elite Mark V "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_enhanced_accelatron_mk2.iff	4	SubPro Enhanced Mark II "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_subpro_modified_accelatron_mk4.iff	8	SubPro Modified Mark IV "Accelatron"
+object/tangible/ship/components/booster/shared_bst_subpro_tuned_accelatron_mk1.iff	2	SubPro Tuned Mark I "Accelatron" Boosters
+object/tangible/ship/components/booster/shared_bst_surronian_accelerator_mk1.iff	6	Surronian Accelerator Mark I
+object/tangible/ship/components/booster/shared_bst_surronian_accelerator_mk2.iff	8	Surronian Accelerator Mark II
+object/tangible/ship/components/booster/shared_bst_surronian_nomad_x4.iff	2	Surronian "Nomad X-4" Boosters
+object/tangible/ship/components/booster/shared_bst_surronian_nomad_x8.iff	4	Surronian "Nomad X-8" Boosters
+object/tangible/ship/components/booster/shared_bst_tiefighter_basic.iff	1	
+object/tangible/ship/components/booster/shared_bst_z95_basic.iff	1	
+object/tangible/ship/components/booster/shared_xwing_booster_test.iff	1	X-Wing Booster
+object/tangible/ship/components/cargo_hold/shared_crg_mining_large.iff	1	Large Cargo Hold (Y-8 Class)
+object/tangible/ship/components/cargo_hold/shared_crg_mining_small.iff	1	Small Cargo Hold (Y-8 Class)
+object/tangible/ship/components/cargo_hold/shared_crg_pob_large.iff	1	Large Cargo Hold (POB Class)
+object/tangible/ship/components/cargo_hold/shared_crg_pob_small.iff	1	Small Cargo Hold (POB Class)
+object/tangible/ship/components/cargo_hold/shared_crg_starfighter_large.iff	1	Large Cargo Hold (Starfighter Class)
+object/tangible/ship/components/cargo_hold/shared_crg_starfighter_small.iff	1	Small Cargo Hold (Starfighter Class)
+object/tangible/ship/components/chassis/shared_awing_chassis_token.iff		A-Wing Chassis Blueprints
+object/tangible/ship/components/chassis/shared_blacksun_heavy_s01_chassis_token.iff		Rihkxyrk Attack Ship Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_blacksun_heavy_s02_chassis_token.iff		Rihkxyrk Attack Ship Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_blacksun_heavy_s03_chassis_token.iff		Rihkxyrk Attack Ship Chassis Blueprints, Style 3
+object/tangible/ship/components/chassis/shared_blacksun_heavy_s04_chassis_token.iff		Rihkxyrk Attack Ship Chassis Blueprints, Style 4
+object/tangible/ship/components/chassis/shared_blacksun_light_s01_chassis_token.iff		Kihraxz Light Fighter Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_blacksun_light_s02_chassis_token.iff		Kihraxz Light Fighter Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_blacksun_light_s03_chassis_token.iff		Kihraxz Light Fighter Chassis Blueprints, Style 3
+object/tangible/ship/components/chassis/shared_blacksun_light_s04_chassis_token.iff		Kihraxz Light Fighter Chassis Blueprints, Style 4
+object/tangible/ship/components/chassis/shared_blacksun_medium_s01_chassis_token.iff		Ixiyen Fast Attack Craft Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_blacksun_medium_s02_chassis_token.iff		Ixiyen Fast Attack Craft Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_blacksun_medium_s03_chassis_token.iff		Ixiyen Fast Attack Craft Chassis Blueprints, Style 3
+object/tangible/ship/components/chassis/shared_blacksun_medium_s04_chassis_token.iff		Ixiyen Fast Attack Craft Chassis Blueprints, Style 4
+object/tangible/ship/components/chassis/shared_bwing_chassis_token.iff		B-Wing Chassis Blueprints
+object/tangible/ship/components/chassis/shared_decimator_chassis_token.iff		VT-49 Decimator Chassis Blueprints
+object/tangible/ship/components/chassis/shared_firespray_chassis_token.iff		KSE Firespray Chassis Blueprints
+object/tangible/ship/components/chassis/shared_havoc_chassis_token.iff		Havoc Starfighter Chassis Blueprint
+object/tangible/ship/components/chassis/shared_hutt_heavy_s01_chassis_token.iff		Kimogila Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_hutt_heavy_s02_chassis_token.iff		Kimogila Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_hutt_light_chassis_token.iff		Scyk Light Fighter Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_hutt_light_heavy_chassis_token.iff		Scyk Light Fighter (High Mass Variant) Chassis Blueprints
+object/tangible/ship/components/chassis/shared_hutt_light_heavy_s02_chassis_token.iff		Scyk Light Fighter (High Mass Variant) Chassis Blueprintsr, Style 2
+object/tangible/ship/components/chassis/shared_hutt_light_s02_chassis_token.iff		Scyk Light Fighter Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_hutt_medium_s01_chassis_token.iff		Dunelizard Chassis Blueprints, Style 1
+object/tangible/ship/components/chassis/shared_hutt_medium_s02_chassis_token.iff		Dunelizard Chassis Blueprints, Style 2
+object/tangible/ship/components/chassis/shared_hutt_turret_ship_chassis_token.iff		M22-T "Krayt" Chassis Blueprints
+object/tangible/ship/components/chassis/shared_naboo_n1_chassis_token.iff		Naboo N-1 Chassis Blueprints
+object/tangible/ship/components/chassis/shared_player_blacksun_vaksai_s02_chassis_token.iff		Vaksai Heavy Starfighter
+object/tangible/ship/components/chassis/shared_player_gunship_imperial_chassis_token.iff		Imperial YE-4 Gunship Chassis
+object/tangible/ship/components/chassis/shared_player_gunship_neutral_chassis_token.iff		Black Sun AEG-77 Vigo Chassis
+object/tangible/ship/components/chassis/shared_player_gunship_rebel_chassis_token.iff		Incom X4 Rebel Gunship Chassis
+object/tangible/ship/components/chassis/shared_tie_in_chassis_token.iff		TIE/In Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tie_light_duty_chassis_token.iff		TIE Light Duty Fighter Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tieadvanced_chassis_token.iff		TIE Advanced Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tieaggressor_chassis_token.iff		TIE Aggressor Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tiebomber_chassis_token.iff		TIE Bomber Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tiedefender_chassis_token.iff		TIE Defender Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tiefighter_chassis_token.iff		TIE Fighter Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tiefighter_heavy_chassis_token.iff		TIE Fighter Deed (Heavy Variant)
+object/tangible/ship/components/chassis/shared_tieinterceptor_chassis_token.iff		TIE Interceptor Chassis Blueprints
+object/tangible/ship/components/chassis/shared_tieoppressor_chassis_token.iff		TIE Oppressor Chassis Blueprints
+object/tangible/ship/components/chassis/shared_twing_chassis_token.iff		T-Wing Interceptor Chassis Blueprint
+object/tangible/ship/components/chassis/shared_xwing_chassis_token.iff		X-Wing Chassis Blueprints
+object/tangible/ship/components/chassis/shared_ykl37r_chassis_token.iff		YKL-37R Nova Courier Chassis Blueprints
+object/tangible/ship/components/chassis/shared_yt1300_chassis_token.iff		YT-1300 Chassis Blueprints
+object/tangible/ship/components/chassis/shared_ywing_chassis_token.iff		Y-Wing Chassis Blueprints
+object/tangible/ship/components/chassis/shared_ywing_longprobe_chassis_token.iff		Y-Wing "Longprobe" Chassis Blueprints
+object/tangible/ship/components/chassis/shared_z95_chassis_token.iff		Z-95 Chassis Blueprints
+object/tangible/ship/components/chassis/shared_z95_heavy_chassis_token.iff		Z-95 Chassis Blueprints (High Mass Variant)
+object/tangible/ship/components/droid_interface/shared_ddi_armek_military_grade_mk1.iff	7	Armek Military Grade Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_armek_military_grade_mk2.iff	10	Armek Military Grade Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_cygnus_di6.iff	2	Cygnus DI-6 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_cygnus_di8.iff	6	Cygnus DI-8 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_freitek_droid_commander_mk1.iff	3	FreiTek Inc. Droid Commander Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_freitek_droid_commander_mk2.iff	6	FreiTek Inc. Droid Commander Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_freitek_droid_commander_mk3.iff	8	FreiTek Inc. Droid Commander Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_freitek_elite.iff	10	FreiTek Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_freitek_modified_droid_commander_mk1.iff	4	FreiTek Inc. Modified Droid Commander Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_gallofree_level1.iff	5	Gallofree Level 1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_generic.iff	1	Generic Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_haor_chall_old_tech.iff	3	Haor Chall Old-Tech Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_haor_chall_vintage_piece.iff	4	Haor Chall Vintage-Tech Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_advanced.iff	9	Hoersch-Kessel Advanced Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_elite.iff	10	Hoersch-Kessel Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_mk1.iff	5	Hoersch-Kessel Mark I Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_mk2.iff	6	Hoersch-Kessel Mark II Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_mk3.iff	7	Hoersch-Kessel Mark III Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_hk_mk4.iff	8	Hoersch-Kessel Mark IV Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_incom_advanced_droid_interface.iff	9	Incom Advanced Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_incom_deluxe_droid_interface_mk1.iff	2	Incom Deluxe Mark I Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_incom_droid_interface_mk1.iff	1	Incom Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_incom_droid_interface_mk2.iff	2	Incom Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_incom_droid_interface_mk3.iff	4	Incom Droid Interface Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_incom_droid_interface_mk4.iff	6	Incom Droid Interface Mark IV
+object/tangible/ship/components/droid_interface/shared_ddi_incom_elite.iff	10	Incom Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_incom_enhanced_droid_interface_mk4.iff	8	Incom Enhanced Droid Interface Mk4
+object/tangible/ship/components/droid_interface/shared_ddi_incom_fast_droid_interface_mk2.iff	4	Incom Fast Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_kde_governor_mk1.iff	2	Kuat Drive Yards Mark I "Governor" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kde_governor_mk2.iff	5	Kuat Drive Yards "Governor" Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_imperial_cygnus_dp44.iff	9	Cygnus "DP-44" Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_imperial_sds_unknown_prototype.iff	10	Sienar Design Systems Unknown Prototype Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_imperial_sfs_imperial_finest.iff	9	Sienar Fleet Systems "Imperial Finest" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_rebel_incom_dx61.iff	9	Incom "DX-61" Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_rebel_incom_supreme_interface.iff	10	Incom "Supreme" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kessel_rebel_qualdex_integrated_array.iff	9	Qualdex Integrated Droid Interface Array
+object/tangible/ship/components/droid_interface/shared_ddi_koensayr_simple_droid_interface.iff	1	Koensayr Simple Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_koensayr_standard_droid_interface.iff	2	Koensayr Standard Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kse_advanced_manager.iff	8	Kuat Systems Engineering Advanced Manager Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kse_custom_manager_mk2.iff	4	Kuat Systems Engineering Custom Manager Class Mark II Capacitor
+object/tangible/ship/components/droid_interface/shared_ddi_kse_elite_manager_1.iff	9	Kuat Systems Engineering "Elite Manager 1" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kse_elite_manager_2.iff	10	Kuat Systems Engineering "Elite Manager 2" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_kse_enhanced_manager_mk3.iff	7	Kuat Systems Engineering Enhanced Manager Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_kse_improved_manager_mk1.iff	2	Kuat Systems Engineering Improved Mark I Droid Manager
+object/tangible/ship/components/droid_interface/shared_ddi_kse_manager_mk1.iff	1	Kuat Systems Engineering Mark I Droid Manager
+object/tangible/ship/components/droid_interface/shared_ddi_kse_manager_mk2.iff	3	Kuat Systems Engineering Mark II Droid Manager
+object/tangible/ship/components/droid_interface/shared_ddi_kse_manager_mk3.iff	6	Kuat Systems Engineering Mark III Droid Manager
+object/tangible/ship/components/droid_interface/shared_ddi_mandal_military_grade_mk1.iff	5	MandalMotors Military Grade Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_mandal_military_grade_mk2.iff	10	MandalMotors Military Grade Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_mission_reward_imperial_sfs_military_grade.iff	6	Sienar Fleet Systems Military Grade Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_mission_reward_neutral_sorosuub_w19.iff	4	SoroSuub "W-19" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_mission_reward_rebel_moncal_d22.iff	4	Mon Calamari "D-22" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_mission_reward_rebel_novaldex_low_latency.iff	8	Novaldex Low-Latency Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_advanced_interface.iff	9	Mon Calamari Advanced Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_custom_dk2.iff	6	Mon Calamari Custom DK-2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_dk1.iff	1	Mon Calamari DK-1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_dk2.iff	5	Mon Calamari DK-2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_dk3.iff	7	Mon Calamari DK-3 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_dk4.iff	8	Mon Calamari DK-4 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_elite.iff	10	Mon Calamari Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_moncal_special_dk1.iff	2	Mon Calamari Special Edition DK-1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_advanced_droid_interface.iff	9	Novaldex Advanced Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_custom_droid_interface_mk4.iff	8	Novaldex Custom Droid Interface Mark 4
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_droid_interface_mk1.iff	3	Novaldex Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_droid_interface_mk2.iff	5	Novaldex Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_droid_interface_mk3.iff	7	Novaldex Droid Interface Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_droid_interface_mk4.iff	10	Novaldex Droid Interface Mark IV
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_elite.iff	10	Novaldex Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_novaldex_special_droid_interface_mk1.iff	2	Novaldex Special Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_droid_interface_mk1.iff	2	Qualdex Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_droid_interface_mk2.iff	4	Qualdex Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_droid_interface_mk3.iff	6	Qualdex Droid Interface Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_droid_interface_mk4.iff	8	Qualdex Droid Interface Mark IV
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_elite.iff	10	Qualdex Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_enhanced_droid_interface_mk5.iff	9	Qualdex Enhanced Droid Interface Mark 5
+object/tangible/ship/components/droid_interface/shared_ddi_qualdex_modified_droid_interface_mk3.iff	7	Qualdex Modified Droid Interface Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_rendili_elite_imperator.iff	9	Rendili Elite "Imperator" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rendili_imperator_1.iff	5	Rendili "Imperator 1" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rendili_imperator_2.iff	7	Rendili "Imperator 2" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rss_deluxe_imperial_2.iff	4	Republic Sienar Systems Deluxe Imperial-2 Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rss_enhanced_imperial_1.iff	2	Republic Sienar Systems Enhanced Mark I Imperial Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rss_imperial_1.iff	1	Republic Sienar Systems Mark I Imperial Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_rss_imperial_2.iff	3	Republic Sienar Systems Imperial-2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_elite.iff	10	Sienar Design Systems Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_enhanced_imperial_2.iff	6	Sienar Design Systems Enhanced "Imperial 2" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_imperial_1.iff	3	Sienar Design Systems "Imperial 1" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_imperial_2.iff	5	Sienar Design Systems "Imperial 2" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_imperial_3.iff	7	Sienar Design Systems "Imperial 3" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_imperial_4.iff	8	Sienar Design Systems "Imperial 4" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_imperial_5.iff	9	Sienar Design Systems "Imperial 5" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sds_special_imperial_1.iff	4	Sienar Design Systems Special "Imperial 1" Interface
+object/tangible/ship/components/droid_interface/shared_ddi_seinar_interface_mk1.iff	2	Sienar Systems Droid Interface Mark I
+object/tangible/ship/components/droid_interface/shared_ddi_seinar_interface_mk2.iff	4	Sienar Systems Droid Interface Mark II
+object/tangible/ship/components/droid_interface/shared_ddi_seinar_interface_mk3.iff	6	Sienar Systems Droid Interface Mark III
+object/tangible/ship/components/droid_interface/shared_ddi_seinar_interface_mk4.iff	9	Sienar Systems Droid Interface Mark IV
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_elite.iff	10	Sienar Fleet Systems Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_enhanced_imperial_1.iff	2	Sienar Fleet Systems Enhanced Mark I Imperial Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_imperial_1.iff	1	Sienar Fleet Systems Mark I Imperial Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_imperial_2.iff	5	Sienar Fleet Systems "Imperial 2" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_imperial_3.iff	7	Sienar Fleet Systems "Imperial 3" Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sfs_imperial_mk5.iff	9	Sienar Fleet Systems Droid Interface Mark V
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_echelon_1.iff	8	SoroSuub Echelon 1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_echelon_2.iff	9	SoroSuub Echelon 2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_elite.iff	10	SoroSuub Elite Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_enhanced_rad_mk1.iff	4	SoroSuub Enhanced RAD-MK1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_modified_rad_mk2.iff	6	SoroSuub Modified RAD-MK2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_rad_mk1.iff	3	SoroSuub RAD-MK1 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_rad_mk2.iff	5	SoroSuub RAD-MK2 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_sorosuub_rad_mk3.iff	7	SoroSuub RAD-MK3 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_subpro_improved_jrd33.iff	4	SubPro Improved JRD-33 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_subpro_jrd33.iff	3	SubPro JRD-33 Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_tiefighter_basic.iff	1	Basic Droid Interface
+object/tangible/ship/components/droid_interface/shared_ddi_z95_basic.iff	1	Basic Droid Interface
+object/tangible/ship/components/droid_interface/shared_droid_interface_test.iff	1	
+object/tangible/ship/components/engine/shared_eng_bezelbok_kessel_runner.iff	7	Bezelbok Kessel Runner
+object/tangible/ship/components/engine/shared_eng_corellian_cruiser_grade_mk1.iff	1	Corellian Mark I Cruiser-Grade Starship Engines
+object/tangible/ship/components/engine/shared_eng_corellian_cruiser_grade_mk2.iff	3	Corellian Cruiser-grade Mark II Engine
+object/tangible/ship/components/engine/shared_eng_corellian_deluxe_cruiser_grade_mk1.iff	2	Corellian Deluxe Mark I Cruiser-grade Engines
+object/tangible/ship/components/engine/shared_eng_cygnus_hd3.iff	1	Cygnus HD-3 Starfighter Engines
+object/tangible/ship/components/engine/shared_eng_cygnus_hd7.iff	3	Cygnus HD-7 Engine
+object/tangible/ship/components/engine/shared_eng_cygnus_hd8.iff	6	Cygnus HD-8 Engine
+object/tangible/ship/components/engine/shared_eng_cygnus_hd_5.iff	2	Cygnus HD-5 Engines
+object/tangible/ship/components/engine/shared_eng_cygnus_hdx.iff	8	Cygnus HD-X Engine
+object/tangible/ship/components/engine/shared_eng_freitek_dual_jet.iff	7	FreiTek Dual Jet Engines
+object/tangible/ship/components/engine/shared_eng_gallofree_advanced.iff	9	Gallofree Advanced
+object/tangible/ship/components/engine/shared_eng_gallofree_jx2.iff	1	Gallofree JX-2 Drive Engines
+object/tangible/ship/components/engine/shared_eng_gallofree_jx3.iff	2	Gallofree JX-3 Engines
+object/tangible/ship/components/engine/shared_eng_generic.iff	1	Generic Engine
+object/tangible/ship/components/engine/shared_eng_h17_singularity.iff	6	Incom H-17 Singularity
+object/tangible/ship/components/engine/shared_eng_haor_chall_old_engine.iff	1	Haor Chall Old-Tech Engines
+object/tangible/ship/components/engine/shared_eng_incom_advanced.iff	9	Incom Advanced
+object/tangible/ship/components/engine/shared_eng_incom_advanced_fusialthrust.iff	6	Incom Advanced Fusialthrust
+object/tangible/ship/components/engine/shared_eng_incom_elite.iff	10	Incom Elite
+object/tangible/ship/components/engine/shared_eng_incom_fusialthrust.iff	4	Incom Fusial Thrust Engine
+object/tangible/ship/components/engine/shared_eng_incom_fusialthrust_2.iff	7	Incom Fusialthrust 2
+object/tangible/ship/components/engine/shared_eng_incom_heavy_fusialthrust.iff	5	Incom Heavy Fusialthrust
+object/tangible/ship/components/engine/shared_eng_incom_improved_fusialthrust_2.iff	8	Incom Improved Fusialthrust 2
+object/tangible/ship/components/engine/shared_eng_incom_light_fusialthrust.iff	1	Incom Light Fusialthrust Engine
+object/tangible/ship/components/engine/shared_eng_kessel_imperial_rendili_hyperion_drive.iff	9	Rendili "Hyperion" Drive Engines
+object/tangible/ship/components/engine/shared_eng_kessel_imperial_sds_special_forces.iff	10	Sienar Design Systems "Special Forces" Engine
+object/tangible/ship/components/engine/shared_eng_kessel_imperial_sfs_special_forces.iff	9	Sienar Fleet Systems "Special Forces" Engine
+object/tangible/ship/components/engine/shared_eng_kessel_rebel_incom_t11_elite.iff	9	Incom T-11 Elite Engine
+object/tangible/ship/components/engine/shared_eng_kessel_rebel_novaldex_blackhole_elite.iff	10	Novaldex "Blackhole" Elite Engine
+object/tangible/ship/components/engine/shared_eng_kessel_rebel_novaldex_grb1138.iff	9	Novaldex "GRB-1138" Elite Engine
+object/tangible/ship/components/engine/shared_eng_koensayr_advanced.iff	9	Koensayr Advanced
+object/tangible/ship/components/engine/shared_eng_koensayr_dual_small_ionjet.iff	3	Koensayr Dual Small Ion-Jet Engines
+object/tangible/ship/components/engine/shared_eng_koensayr_elite.iff	10	Koensayr Elite
+object/tangible/ship/components/engine/shared_eng_koensayr_enhanced_dual_small_ionjet.iff	4	Koensayr Enhanced Dual Small Ion-Jet Engines
+object/tangible/ship/components/engine/shared_eng_koensayr_heavy_ionjet.iff	8	Koensayr Heavy Ion-Jet
+object/tangible/ship/components/engine/shared_eng_koensayr_small_ionjet.iff	1	Koensayr Small Ion-Jet Engine
+object/tangible/ship/components/engine/shared_eng_koensayr_tuned_small_ionjet.iff	2	Koensayr Tuned Small Ion-Jet Engine
+object/tangible/ship/components/engine/shared_eng_kse_a2x.iff	1	Kuat Systems Engineering A-2X Thrust Engines
+object/tangible/ship/components/engine/shared_eng_kse_a5x.iff	3	Kuat Systems Engineering A-5X Engines
+object/tangible/ship/components/engine/shared_eng_kse_a7x.iff	5	Kuat Systems Engineering A-7X Engines
+object/tangible/ship/components/engine/shared_eng_kse_a8x.iff	6	Kuat Systems Engineering A-8X Engines
+object/tangible/ship/components/engine/shared_eng_kse_advanced.iff	9	Kuat Systems Engineering Advanced Engines
+object/tangible/ship/components/engine/shared_eng_kse_elite.iff	10	Kuat Systems Engineering Elite Engines
+object/tangible/ship/components/engine/shared_eng_kse_improved_a2x.iff	2	Kuat Systems Engineering Improved A-2X Thrust Engines
+object/tangible/ship/components/engine/shared_eng_kuat_experimental.iff	10	
+object/tangible/ship/components/engine/shared_eng_kuat_m24.iff	10	Kuat Engineering Systems TC-62 Engines
+object/tangible/ship/components/engine/shared_eng_mandal_advanced.iff	9	MandalMotors Advanced Engine
+object/tangible/ship/components/engine/shared_eng_mandal_elite.iff	10	MandalMotors Elite Engine
+object/tangible/ship/components/engine/shared_eng_mandal_enhanced_heavy.iff	6	MandalMotors Enhanced Heavy Engines
+object/tangible/ship/components/engine/shared_eng_mandal_firestorm.iff	7	MandalMotors "Firestorm" Engine
+object/tangible/ship/components/engine/shared_eng_mandal_firestorm_2.iff	8	MandalMotors "Firestorm 2" Engine
+object/tangible/ship/components/engine/shared_eng_mandal_heavy.iff	5	MandalMotors Heavy Engine
+object/tangible/ship/components/engine/shared_eng_mandal_x37_vandal.iff	1	MandalMotors X-37 Vandal Engine
+object/tangible/ship/components/engine/shared_eng_mandal_x57_vandal.iff	4	MandalMotors X-57 "Vandal" Engine
+object/tangible/ship/components/engine/shared_eng_mission_reward_imperial_cygnus_megadrive.iff	6	Cygnus "Megadrive" Starship Engine
+object/tangible/ship/components/engine/shared_eng_mission_reward_neutral_haor_chall_military.iff	8	Haor Chall Military Grade Engine
+object/tangible/ship/components/engine/shared_eng_mission_reward_neutral_mandal_inferno.iff	6	MandalMotors "Inferno" Starfighter Engine
+object/tangible/ship/components/engine/shared_eng_mission_reward_rebel_incom_military.iff	6	Incom Military-Grade Starfighter Engine
+object/tangible/ship/components/engine/shared_eng_moncal_charged_standard.iff	4	Mon Calamari Charged Standard Engine
+object/tangible/ship/components/engine/shared_eng_moncal_enhanced_light.iff	2	Mon Calamari Enhanced Light Drive Engines
+object/tangible/ship/components/engine/shared_eng_moncal_heavy.iff	5	Mon Calamari Heavy Ion Engines
+object/tangible/ship/components/engine/shared_eng_moncal_ifs32.iff	7	Mon Calamari LFS-32 Drive Engine
+object/tangible/ship/components/engine/shared_eng_moncal_ifs64.iff	8	Mon Calamari LFS-64 Drive Engine
+object/tangible/ship/components/engine/shared_eng_moncal_improved_heavy.iff	6	Mon Calamari Improved Heavy Drive Engines
+object/tangible/ship/components/engine/shared_eng_moncal_light.iff	1	Mon Calamari Light Drive Engines
+object/tangible/ship/components/engine/shared_eng_moncal_standard.iff	3	Mon Calamari Standard Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_advanced.iff	9	Novaldex Advanced Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_eventhorizon.iff	4	Novaldex J-77 "Event Horizon" Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_light_eventhorizon.iff	1	Novaldex Light J-77 "Event Horizon" Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_x6.iff	6	Novaldex X6 Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_x7.iff	7	Novaldex X7 Engine
+object/tangible/ship/components/engine/shared_eng_novaldex_x9.iff	8	Novaldex X9 Engine
+object/tangible/ship/components/engine/shared_eng_prototype_engine.iff	1	Prototype Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_a13.iff	6	Qualdex A13 Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_advanced.iff	9	Qualdex Advanced Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_b10.iff	7	Qualdex B10 Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_elite.iff	10	Qualdex Elite Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_kyromaster.iff	4	Qualdex "Kyromaster" Engine
+object/tangible/ship/components/engine/shared_eng_qualdex_small_kyromaster.iff	1	Qualdex Small "Kyromaster" Engine
+object/tangible/ship/components/engine/shared_eng_quantum_ion_drive.iff	8	Quantum Ion Drive
+object/tangible/ship/components/engine/shared_eng_rendili_demon_mk1.iff	5	Rendili Demon Mark I Engines
+object/tangible/ship/components/engine/shared_eng_rendili_elite.iff	10	Rendili Elite Engine
+object/tangible/ship/components/engine/shared_eng_reward_experimental.iff	10	
+object/tangible/ship/components/engine/shared_eng_reward_incom_elite.iff	10	Elite Incom Engine
+object/tangible/ship/components/engine/shared_eng_reward_koensayr_elite.iff	10	Elite Koensayr Engine
+object/tangible/ship/components/engine/shared_eng_reward_kuat_elite.iff	10	Elite KDE Engine
+object/tangible/ship/components/engine/shared_eng_reward_novaldex_elite.iff	10	Elite Novaldex Engine
+object/tangible/ship/components/engine/shared_eng_reward_surronian_elite.iff	10	Elite Surronian Engine
+object/tangible/ship/components/engine/shared_eng_rss_advanced.iff	9	Republic Sienar Systems Advanced Ion Engines
+object/tangible/ship/components/engine/shared_eng_rss_elite.iff	10	Republic Sienar Systems Elite Ion Engines
+object/tangible/ship/components/engine/shared_eng_rss_imperial_skyrunner.iff	4	Republic Fleet Systems Imperial Skyrunner Engine
+object/tangible/ship/components/engine/shared_eng_rss_imperial_skyrunner_2.iff	6	Republic Sienar Systems Imperial Skyrunner 2 Engine
+object/tangible/ship/components/engine/shared_eng_rss_imperial_skyrunner_3.iff	7	Republic Sienar Systems Imperial Skyrunner 3 Engines
+object/tangible/ship/components/engine/shared_eng_rss_imperial_skyrunner_4.iff	8	Republic Sienar Systems Imperial Skyrunner 4 Engines
+object/tangible/ship/components/engine/shared_eng_sds_imperial_1.iff	1	Sienar Design Systems Imperial Ion Engines
+object/tangible/ship/components/engine/shared_eng_sds_imperial_2.iff	5	Sienar Design Systems "Imperial 2" Ion Engines
+object/tangible/ship/components/engine/shared_eng_sds_limited_imperial_1.iff	2	Sienar Design Systems Limited Edition Imperial Ion Engines
+object/tangible/ship/components/engine/shared_eng_sfs_advanced.iff	9	Sienar Fleet Systems Advanced Ion Drive
+object/tangible/ship/components/engine/shared_eng_sfs_elite.iff	10	Sienar Fleet Systems Elite Ion Engines
+object/tangible/ship/components/engine/shared_eng_sfs_imperial_1.iff	1	Sienar Fleet Systems Imperial Ion Engines
+object/tangible/ship/components/engine/shared_eng_sfs_imperial_2.iff	3	Sienar Fleet Systems Imperial-2 Engine
+object/tangible/ship/components/engine/shared_eng_sfs_imperial_3.iff	5	Sienar Fleet Systems Imperial-3 Engine
+object/tangible/ship/components/engine/shared_eng_sfs_imperial_4.iff	7	Sienar Fleet Systems Imperial-4 Engine
+object/tangible/ship/components/engine/shared_eng_sfs_imperial_5.iff	8	Sienar Fleet Systems Imperial-5 Engine
+object/tangible/ship/components/engine/shared_eng_sfs_modified_imperial_3.iff	6	Sienar Fleet Systems Modified Imperial-3 Engine
+object/tangible/ship/components/engine/shared_eng_sfs_performance_imperial_1.iff	2	Sienar Fleet Systems Performance Imperial Ion Engines
+object/tangible/ship/components/engine/shared_eng_sfs_tuned_imperial_2.iff	4	Sienar Fleet Systems Tuned Imperial-2 Engine
+object/tangible/ship/components/engine/shared_eng_sorosuub_l_337_ion_engine.iff	1	SoroSuub L-337 Ion Engine
+object/tangible/ship/components/engine/shared_eng_sorosuub_tuned_l_337_ion_engine.iff	2	SoroSuub Tuned L-337 Ion Engine
+object/tangible/ship/components/engine/shared_eng_sorosuub_u83r_ion_drive.iff	3	SoroSuub U-83R Ion Drive
+object/tangible/ship/components/engine/shared_eng_subpro_light_engines.iff	1	SubPro Light Ion Engines
+object/tangible/ship/components/engine/shared_eng_t86_shooting_star.iff	6	T86 Shooting Star Engine
+object/tangible/ship/components/engine/shared_eng_tiefighter_basic.iff	1	Basic Engine
+object/tangible/ship/components/engine/shared_eng_z95_basic.iff	1	Basic Engine
+object/tangible/ship/components/engine/shared_engine_cygnus_hd7.iff	4	Cygnus HD-7 Engine
+object/tangible/ship/components/engine/shared_engine_damorian_rx7.iff	4	Damorian RX7 Ion Engine
+object/tangible/ship/components/engine/shared_engine_incom_e16.iff	4	Incom E-16/x Ion Engine
+object/tangible/ship/components/engine/shared_engine_incom_fusialthrust.iff	4	Incom Fusial Thrust Engine
+object/tangible/ship/components/engine/shared_engine_koensayr_ionjet.iff	6	Koensayr R200 Ion-Jet Engine
+object/tangible/ship/components/engine/shared_engine_kongar_defender.iff	4	KonGar KGDefender Ion Engine
+object/tangible/ship/components/engine/shared_engine_kuat_a9x.iff	7	KuatDriveSystems A-9X Thrust Engines
+object/tangible/ship/components/engine/shared_engine_kuat_f31.iff	7	Kuat Engineering Systems F-31 Drive Engine
+object/tangible/ship/components/engine/shared_engine_kuat_tc40.iff	8	Kuat Engineering Systems TC-40 Engines
+object/tangible/ship/components/engine/shared_engine_novaldex_eventhorizon.iff	2	Novaldex J-77 "Event Horizon" Engine
+object/tangible/ship/components/engine/shared_engine_novaldex_singularity.iff	5	Novaldex "Singularity" Engine
+object/tangible/ship/components/engine/shared_engine_novaldex_x12.iff	10	Novaldex X-12 "Experimental"
+object/tangible/ship/components/engine/shared_engine_nubian_221.iff	5	Nubian 221 Engine
+object/tangible/ship/components/engine/shared_engine_nubian_221_racing_mod.iff	10	Nubian 221 - Racing Mod
+object/tangible/ship/components/engine/shared_engine_qualdex_a10.iff	5	Qualdex Kyromaster A-10
+object/tangible/ship/components/engine/shared_engine_qualdex_igt.iff	8	Qualdex IGT Engines
+object/tangible/ship/components/engine/shared_engine_qualdex_kyromaster.iff	3	Qualdex "Kyromaster" Engine
+object/tangible/ship/components/engine/shared_engine_seinar_ps56.iff	3	Sienar Fleet Systems P-s5.6 Twin Ion Engines (TIE)
+object/tangible/ship/components/engine/shared_engine_surronian_a2.iff	2	Surronian A2 Grade Engine
+object/tangible/ship/components/engine/shared_engine_surronian_a25.iff	3	Surronian A2.50 Grade Engine
+object/tangible/ship/components/engine/shared_engine_test.iff	1	
+object/tangible/ship/components/engine/shared_engine_ubrikkian_n2.iff	9	Ubrikkian N2 Drive Engines
+object/tangible/ship/components/engine/shared_xwing_engine_s01_test.iff	1	
+object/tangible/ship/components/engine/shared_xwing_engine_s02_test.iff	1	
+object/tangible/ship/components/reactor/shared_rct_armek_phase_grinder.iff	10	Armek Phase Grinder Reactor
+object/tangible/ship/components/reactor/shared_rct_armek_super_collider.iff	8	Armek Super-collider Reactor
+object/tangible/ship/components/reactor/shared_rct_armek_ultra_collider.iff	9	Armek Ultra Collider
+object/tangible/ship/components/reactor/shared_rct_corellian_modified_bt3.iff	10	Corellian Modified BT3 Reactor
+object/tangible/ship/components/reactor/shared_rct_corellian_modified_bt5.iff	10	Corellian Modified BT5 Reactor
+object/tangible/ship/components/reactor/shared_rct_cygnus_advanced.iff	9	Cygnus Advanced
+object/tangible/ship/components/reactor/shared_rct_cygnus_experimental.iff	4	
+object/tangible/ship/components/reactor/shared_rct_cygnus_mk1.iff	1	Cygnus Mark I Reactor
+object/tangible/ship/components/reactor/shared_rct_cygnus_mk2.iff	3	Cygnus Mark II Reactor
+object/tangible/ship/components/reactor/shared_rct_cygnus_supercharged_mk2.iff	4	Cygnus Supercharger Mark II Reactor
+object/tangible/ship/components/reactor/shared_rct_cygnus_tuned_mk1.iff	2	Cygnus Tuned Mark I Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_improved_powerhouse_mk1.iff	4	Freitek Improved Mark I Powerhouse Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_level1.iff	1	FreiTek Inc. Level 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_performance_level1.iff	2	FreiTek Inc. Performance Level 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_powerhouse_mk1.iff	3	FreiTek Powerhouse Mark I Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_powerhouse_mk2.iff	5	FreiTek Powerhouse Mark II Reactor
+object/tangible/ship/components/reactor/shared_rct_freitek_powerhouse_mk3.iff	8	Freitek Powerhouse Mark III Reactor
+object/tangible/ship/components/reactor/shared_rct_generic.iff	1	Generic Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_advanced.iff	9	Incom Advanced Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_custom_mark2.iff	4	Incom Custom Mark II Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_elite.iff	10	Incom Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_improved_mark1.iff	2	Incom Improved Mark I Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_mark1.iff	1	Incom Mark 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_mark2.iff	3	Incom Mark 2 Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_mark3.iff	5	Incom Mark 3 Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_mark4.iff	7	Incom Mark 4 Reactor
+object/tangible/ship/components/reactor/shared_rct_incom_mark5.iff	8	Incom Mark 5 Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_imperial_kdy_powermaster.iff	9	Kuat Drive Yards "Powermaster" Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_imperial_sds_secret_ops.iff	10	Sienar Design Systems "Secret Ops" Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_imperial_sfs_special_forces.iff	9	Sienar Fleet Systems "Special Forces" Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_rebel_incom_overdriven_elite.iff	9	Incom Overdriven Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_rebel_mandal_modified_gorax.iff	9	MandalMotors Modified Gorax Reactor
+object/tangible/ship/components/reactor/shared_rct_kessel_rebel_slayn_high_output_experimental.iff	10	Slayn and Korpil High Output Experimental Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_charged_supernova.iff	2	Koensayr Charger Supernova Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_enhanced_supernova_mk2.iff	4	Koensayr Enhanced Mark II Supernova Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_supernova.iff	1	Koensayr "Supernova" Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_supernova_advanced.iff	7	Koensayr Supernova Advanced Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_supernova_mk2.iff	3	Koensayr Mark II Supernova Reactor
+object/tangible/ship/components/reactor/shared_rct_koensayr_supernova_mk3.iff	5	Koensayr Supernova Mark III Reactor
+object/tangible/ship/components/reactor/shared_rct_krayt_neverdie.iff	7	
+object/tangible/ship/components/reactor/shared_rct_kse_custom_lx11.iff	2	Kuat Systems Engineering Custom LX-11 Reactor
+object/tangible/ship/components/reactor/shared_rct_kse_experimental.iff	3	
+object/tangible/ship/components/reactor/shared_rct_kse_lx11.iff	1	Kuat Systems Engineering LX-11 Reactor
+object/tangible/ship/components/reactor/shared_rct_kse_lx21.iff	3	Kuat Systems Engineering LX-21
+object/tangible/ship/components/reactor/shared_rct_kse_rct_x.iff	4	Kuat Systems Engineering RCT-X Reactor
+object/tangible/ship/components/reactor/shared_rct_kse_rct_z.iff	8	Kuat Systems Engineering RCT-Z Reactor
+object/tangible/ship/components/reactor/shared_rct_kse_supreme.iff	9	Kuat Systems Engineering Supreme Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dx_advanced.iff	9	MandalMotors DX-Advanced Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr.iff	1	MandalMotors DXR Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr2.iff	2	MandalMotors DXR-2 Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr3.iff	3	MandalMotors DXR-3 Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr4.iff	4	MandalMotors DXR-4 Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr5.iff	7	MandalMotors DXR-5 Reactor
+object/tangible/ship/components/reactor/shared_rct_mandal_dxr6.iff	6	MandalMotors DXR-6 Reactor
+object/tangible/ship/components/reactor/shared_rct_mandalor_gorax.iff	9	Mandalor Motors "Gorax" Reactor
+object/tangible/ship/components/reactor/shared_rct_mandalor_gorax_elite.iff	10	Mandalor Motors "Gorax" Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_mission_reward_imperial_rss_advanced_military.iff	8	Republic Sienar Systems Advanced Military-Grade Reactor
+object/tangible/ship/components/reactor/shared_rct_mission_reward_imperial_sds_high_output.iff	6	Sienar Design Systems High-Output Reactor
+object/tangible/ship/components/reactor/shared_rct_mission_reward_neutral_subpro_military.iff	6	SubPro Military-Grade Reactor
+object/tangible/ship/components/reactor/shared_rct_mission_reward_rebel_slayn_hypervortex.iff	6	Slayn & Korpil "Hypervortex" Reactor
+object/tangible/ship/components/reactor/shared_rct_moncal_overdriver_s1.iff	10	Mon Calamari Overdriver Reactor
+object/tangible/ship/components/reactor/shared_rct_moncal_overdriver_s2.iff	6	Mon Calamari Overdriver S2 Reactor
+object/tangible/ship/components/reactor/shared_rct_prototype_reactor.iff	1	Prototype Reactor
+object/tangible/ship/components/reactor/shared_rct_rendili_type5.iff	5	Rendili Type5 Reactor
+object/tangible/ship/components/reactor/shared_rct_rendili_type7.iff	7	Rendili Type7 Reactor
+object/tangible/ship/components/reactor/shared_rct_rendili_type_x_elite.iff	10	Rendili Type X Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_reward_armek_elite.iff	10	Elite Armek Reactor
+object/tangible/ship/components/reactor/shared_rct_reward_incom_elite.iff	10	Elite INCOM Reactor
+object/tangible/ship/components/reactor/shared_rct_reward_slayn_elite.iff	10	Elite Slayn & Korpil Reactor
+object/tangible/ship/components/reactor/shared_rct_reward_subpro_elite.iff	10	Elite Subpro Reactor
+object/tangible/ship/components/reactor/shared_rct_reward_taim_elite.iff	10	Elite Taim & Bak Reactor
+object/tangible/ship/components/reactor/shared_rct_rss_advanced.iff	9	Republic Sienar Systems Advanced Reactor
+object/tangible/ship/components/reactor/shared_rct_rss_x12.iff	7	Republic Sienar Systems X12 Reactor
+object/tangible/ship/components/reactor/shared_rct_rss_x8.iff	6	Republic Sienar Systems X8 Reactor
+object/tangible/ship/components/reactor/shared_rct_sds_elite.iff	10	Sienar Design Systems Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_sds_imperial_1.iff	5	Sienar Design Systems Imperial 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_sds_special_forces_1.iff	8	Sienar Design Systems Special Forces 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_seinar_enhanced_level1.iff	2	Sienar Enhanced Level 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_seinar_level1.iff	1	Sienar Level 1 Reactor
+object/tangible/ship/components/reactor/shared_rct_seinar_level2.iff	3	Sienar Level 2 Reactor
+object/tangible/ship/components/reactor/shared_rct_seinar_level3.iff	5	Sienar Level 3 Reactor
+object/tangible/ship/components/reactor/shared_rct_seinar_level4.iff	7	Sienar Level 4 Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_advanced.iff	9	Sienar Fleet Systems Advanced Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_elite.iff	10	Sienar Fleet Systems Elite Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_imperial_1.iff	3	Sienar Fleet Systems Imperial-1 Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_imperial_2.iff	4	Sienar Fleet Systems Imperial-2 Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_imperial_3.iff	5	Sienar Fleet Systems Imperial-3 Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_imperial_4.iff	6	Sienar Fleet Systems Imperial-4 Reactor
+object/tangible/ship/components/reactor/shared_rct_sfs_imperial_5.iff	8	Sienar Fleet Systems Imperial-5 Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_hypertron_2k.iff	5	Slayn & Korpil "Hypertron 2000" Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_hypertron_4k.iff	10	Slayn & Korpil "Hypertron 4000" Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_vortex_mk1.iff	3	Slayn & Korpil "Vortex" Mk1 Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_vortex_mk2.iff	6	Slayn & Korpil "Vortex" Mk2 Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_vortex_mk3.iff	7	Slayn & Korpil "Vortex" Mk3 Reactor
+object/tangible/ship/components/reactor/shared_rct_slayn_vortex_mk4.iff	8	Slayn & Korpil "Vortex" Mk4 Reactor
+object/tangible/ship/components/reactor/shared_rct_sorosuub_fusion_reactor_1.iff	3	SoroSuub Fusion Reactor 1
+object/tangible/ship/components/reactor/shared_rct_sorosuub_fusion_reactor_2.iff	4	SoroSuub Fusion Reactor 2
+object/tangible/ship/components/reactor/shared_rct_sorosuub_fusion_reactor_3.iff	5	SoroSuub Fusion Reactor 3
+object/tangible/ship/components/reactor/shared_rct_sorosuub_turbine_3.iff	7	SoroSuub Turbine 3
+object/tangible/ship/components/reactor/shared_rct_sorosuub_turbine_advanced.iff	9	SoroSuub Turbine Advanced
+object/tangible/ship/components/reactor/shared_rct_subpro_aurora.iff	6	Subpro Aurora Reactor
+object/tangible/ship/components/reactor/shared_rct_subpro_aurora_max.iff	7	Subpro Aurora Max
+object/tangible/ship/components/reactor/shared_rct_subpro_dyna1.iff	1	Subpro Dyna-I Reactor
+object/tangible/ship/components/reactor/shared_rct_subpro_dyna2.iff	8	Subpro Dyna-II Reactor
+object/tangible/ship/components/reactor/shared_rct_subpro_special_dyna2.iff	2	Subpro Special Dyna-II Reactor
+object/tangible/ship/components/reactor/shared_rct_taim_experimental_s1.iff	6	Taim & Bak Experimental Reactor S1
+object/tangible/ship/components/reactor/shared_rct_taim_experimental_s2.iff	8	Taim & Bak Experimental Reactor S2
+object/tangible/ship/components/reactor/shared_rct_taim_experimental_s3.iff	7	Taim Experimental S3
+object/tangible/ship/components/reactor/shared_rct_tiefighter_basic.iff	1	Basic Reactor
+object/tangible/ship/components/reactor/shared_rct_unknown_distressed_aluminum.iff	6	(Unknown) Distressed Aluminum Reactor
+object/tangible/ship/components/reactor/shared_rct_unknown_multicore.iff	6	(Unknown) Multi-core Reactor
+object/tangible/ship/components/reactor/shared_rct_unknown_proton_chamber.iff	6	(Unknown) Proton Chamber Reactor
+object/tangible/ship/components/reactor/shared_rct_watto_sunray_2.iff	2	Watto's "Sunray" Reactor
+object/tangible/ship/components/reactor/shared_rct_watto_sunray_3.iff	4	Watto's "Sunray" Mark III Reactor
+object/tangible/ship/components/reactor/shared_rct_z95_basic.iff	1	Basic Reactor
+object/tangible/ship/components/reactor/shared_reactor_test.iff	1	
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_elite.iff	9	Armek Plasma Shell Elite Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_elite_2.iff	10	Armek Plasma Shell Elite 2 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_s1.iff	1	Armek Plasma Shell Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_s2.iff	2	Armek Plasma Shell Deflector Shields (S2 Elite)
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_s3.iff	4	Armek Plasma Shell S3 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_armek_plasma_shell_s6.iff	6	Armek Plasma Shell S6 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_elite.iff	10	Cygnus Elite Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_experimental.iff	10	
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_improved_mk2.iff	5	Cygnus Improved Mark II Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_mk1.iff	1	Cygnus Mark I Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_mk2.iff	4	Cygnus Mark II Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_mk3.iff	6	Cygnus Mark III Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_mk4.iff	7	Cygnus Mark IV Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_mk5.iff	9	Cygnus Mark V Shields
+object/tangible/ship/components/shield_generator/shared_shd_cygnus_special_mk1.iff	2	Cygnus Special Mark I Shields
+object/tangible/ship/components/shield_generator/shared_shd_dual_deflector_s1.iff	1	(Unknown) Dual Deflector System
+object/tangible/ship/components/shield_generator/shared_shd_dual_deflector_s2.iff	1	(Unknown) Advanced Dual Deflector System
+object/tangible/ship/components/shield_generator/shared_shd_esp_reactive.iff	6	
+object/tangible/ship/components/shield_generator/shared_shd_gallofree_defender_2.iff	8	Gallofree Defender 2 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_gallofree_defender_elite.iff	10	Gallofree Defender Elite Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_generic.iff	1	Generic Shield
+object/tangible/ship/components/shield_generator/shared_shd_incom_mark2.iff	1	Incom Deflector Screen Mark2
+object/tangible/ship/components/shield_generator/shared_shd_incom_mark5.iff	1	Incom Deflector Screen Mark 5
+object/tangible/ship/components/shield_generator/shared_shd_incom_mark9.iff	1	Incom Deflector Screen Mark 9
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_advanced.iff	7	Incom Rayshield Advanced
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_r4.iff	2	Incom Rayshield R4
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_r7.iff	2	Incom Rayshield R7
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x1.iff	3	Incom Rayshield (Experimental)
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x12.iff	5	Incom Rayshield X12
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x2.iff	3	Incom Rayshield (Second-generation Experimental)
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x5.iff	3	Incom Rayshield X5 Prototype
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x7.iff	4	Incom Rayshield X7
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_x9.iff	4	Incom Rayshield X9
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_z1.iff	5	Incom Rayshield Z1
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_z5.iff	6	Incom Rayshield Z5
+object/tangible/ship/components/shield_generator/shared_shd_incom_rayshield_z7.iff	6	Incom Rayshield Z7
+object/tangible/ship/components/shield_generator/shared_shd_incom_techscreen_1.iff	8	Incom Techscreen 1 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_incom_techscreen_2.iff	9	Incom Techscreen 2 Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_incom_techscreen_elite.iff	10	Incom Techscreen Elite Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_interlaced_graviton.iff	9	(Experimental) Interlaced Graviton Protection Grid
+object/tangible/ship/components/shield_generator/shared_shd_kessel_imperial_cygnus_experimental_system.iff	9	Cygnus Experimental Shield Generation System
+object/tangible/ship/components/shield_generator/shared_shd_kessel_imperial_sds_secret_ops.iff	10	Sienar Design Systems "Secret Ops" Shield Generation System
+object/tangible/ship/components/shield_generator/shared_shd_kessel_imperial_sfs_megapolyweb.iff	9	Sienar Fleet Systems "Mega Polyweb" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kessel_rebel_incom_rayshield_overdriver.iff	9	Incom "Rayshield Overdriver" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kessel_rebel_sorosuub_ion_mesh_projection.iff	10	SoroSuub Ion-Mesh Projection System
+object/tangible/ship/components/shield_generator/shared_shd_kessel_rebel_unknown_proton_interweave_system.iff	9	(Unknown Manufacturer) Proton Interweave Shielding System
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_advanced.iff	8	Koensayr Deflector Advanced
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_elite.iff	10	Koensayr Deflector Elite
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_m1.iff	1	Koensayr M1 Deflector Shield
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_m2.iff	3	Koensayr Deflector Shield M2
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_m3.iff	5	Koensayr Deflector M3
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_m6.iff	6	Koensayr Deflector M6
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_deflector_m8.iff	7	Koensayr Deflector M8
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_improved_deflector_m1.iff	2	Koensayr Improved Deflector Shield M1
+object/tangible/ship/components/shield_generator/shared_shd_koensayr_modified_deflector_advanced.iff	9	Koensayr Modified Deflector Advanced
+object/tangible/ship/components/shield_generator/shared_shd_kse_elite.iff	10	Kuat Systems Engineering Elite Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kse_enhanced_military_mk1.iff	2	Kuat Systems Engineering Enhanced Mark I Military Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kse_military_mk1.iff	1	Kuat Systems Engineering Mark I Military Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kse_military_mk2.iff	3	Kuat Systems Engineering Mark II Military Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_kse_mk3.iff	5	Kuat Systems Engineering Mark III Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_kse_mk4.iff	6	Kuat Systems Engineering Mark IV Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_kse_mk5.iff	7	Kuat Systems Engineering Mark V Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_kse_mk6.iff	8	Kuat Systems Engineering Mark VI Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_kse_mk7.iff	9	Kuat Systems Engineering Mark VII Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_mandal_double_protector_mk1.iff	2	MandalMotors Double "Protector Class" Shields Mk1
+object/tangible/ship/components/shield_generator/shared_shd_mandal_flexshield_ks25.iff	6	MandalMotors Flexshield Ks-25 Shields
+object/tangible/ship/components/shield_generator/shared_shd_mandal_flexshield_ks5.iff	5	MandalMotors Flexshield Ks-5 Shields
+object/tangible/ship/components/shield_generator/shared_shd_mandal_flexshield_ks7.iff	7	MandalMotors Flexshield Ks-7 Shields
+object/tangible/ship/components/shield_generator/shared_shd_mandal_flexshield_kx1.iff	8	MandalMotors Flexshield Kx-1 Shields
+object/tangible/ship/components/shield_generator/shared_shd_mandal_protector_mk1.iff	1	MandalMotors "Protector Class" Shields Mk1
+object/tangible/ship/components/shield_generator/shared_shd_mandalor_flexshield_ks1.iff	3	MandalMotors "Flexshield" KS-1
+object/tangible/ship/components/shield_generator/shared_shd_mandalor_flexshield_ks18.iff	5	MandalMotors "Flexshield" KS-18
+object/tangible/ship/components/shield_generator/shared_shd_mandalor_flexshield_ks3.iff	4	MandalMotors "Flexshield" KS-3
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_imperial_cygnus_holoscreen.iff	8	Cygnus "Holoscreen" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_imperial_rendili_dual_projector.iff	4	Rendili Dual-Projector Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_neutral_armek_plasma_web.iff	8	Armek "Plasma Web" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_neutral_koensayr_ds23.iff	4	Koensayr "DS-23" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_rebel_incom_k77.iff	4	Incom "K-77" Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_mission_reward_rebel_taim_military_grade.iff	8	Taim & Bak Military-Grade Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_moncal.iff	4	Mon Calamari Standard Shield
+object/tangible/ship/components/shield_generator/shared_shd_moncal_deluxe_ionweb_a.iff	2	Mon Calamari Deluxe "Ion-Web A" Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_deluxe_ionweb_b.iff	3	Mon Calamari Deluxe "Ion-Web B" Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_ionweb_a.iff	1	Mon Calamari "Ion-Web A" Deflector Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_ionweb_advanced.iff	8	Mon Calamari Ion-Web Advanced Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_ionweb_elite.iff	9	Mon Calamari Ion-Web Elite Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_ionweb_elite_2.iff	10	Mon Calamari Ion-Web Elite 2 Shields
+object/tangible/ship/components/shield_generator/shared_shd_moncal_ionweb_heavy.iff	7	Mon Calamari Ion-Web Heavy Shields
+object/tangible/ship/components/shield_generator/shared_shd_phased_fullerine_fx12.iff	6	Phased Fullerine FX12 Shield System
+object/tangible/ship/components/shield_generator/shared_shd_phased_fullerine_fx27.iff	7	Phased Fullerine FX27 Deflector Array
+object/tangible/ship/components/shield_generator/shared_shd_phased_fullerine_fx92.iff	8	Phased Fullerine FX92 Energy Shield
+object/tangible/ship/components/shield_generator/shared_shd_protecto_net.iff	8	Protecto-net Shield
+object/tangible/ship/components/shield_generator/shared_shd_prototype_shield.iff	1	Prototype Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_rendili.iff	4	Rendili Standard Deflector Shield
+object/tangible/ship/components/shield_generator/shared_shd_reward_armek_elite.iff	10	Elite Armek Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_reward_incom_elite.iff	10	Elite INCOM Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_reward_mandalor_elite.iff	10	Elite Mandalor Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_reward_seinar_elite.iff	10	Elite Seinar Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_reward_taim_elite.iff	10	Elite Taim & Bak Shield Generator
+object/tangible/ship/components/shield_generator/shared_shd_seinar_experimental_a1.iff	3	Sienar Systems Experimental Reflector (Unreleased)
+object/tangible/ship/components/shield_generator/shared_shd_seinar_gx3.iff	1	Sienar Systems GX3 Deflector
+object/tangible/ship/components/shield_generator/shared_shd_seinar_gx7.iff	1	Sienar Systems GX7 Deflector
+object/tangible/ship/components/shield_generator/shared_shd_seinar_gx_elite.iff	1	Sienar Systems GX Elite Deflector
+object/tangible/ship/components/shield_generator/shared_shd_seinar_proton_screen_p1.iff	2	Sienar Proton Screen (Abandoned Prototype)
+object/tangible/ship/components/shield_generator/shared_shd_seinar_proton_screen_p6.iff	2	Sienar Systems Proton Screen (Marketing Prototype)
+object/tangible/ship/components/shield_generator/shared_shd_seinar_reflector_elite.iff	3	Sienar Systems Elite Reflector System
+object/tangible/ship/components/shield_generator/shared_shd_seinar_reflector_standard.iff	3	Sienar Systems Standard Reflector Array
+object/tangible/ship/components/shield_generator/shared_shd_sfs_advanced.iff	6	Sienar Fleet Systems Advanced Shield
+object/tangible/ship/components/shield_generator/shared_shd_sfs_custom_polyweb_elite.iff	10	Sienar Fleet Systems Custom Polyweb Elite Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_imperial_deluxe_standard.iff	4	Sienar Fleet Systems Deluxe Imperial Standard Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_imperial_heavy.iff	5	Sienar Fleet Systems Imperial Heavy Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_imperial_special_forces.iff	7	Sienar Fleet Systems Imperial Special Forces Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_imperial_standard.iff	4	Sienar Fleet Systems Imperial Standard Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_limited_advanced.iff	6	Sienar Fleet Systems Limited Advanced Shields
+object/tangible/ship/components/shield_generator/shared_shd_sfs_modified_imperial_heavy.iff	5	Sienar Fleet Systems Modified Imperial Heavy Deflectors
+object/tangible/ship/components/shield_generator/shared_shd_sfs_modified_imperial_special_forces.iff	7	Sienar Fleet Systems Modified Imperial Special Forces Deflectors
+object/tangible/ship/components/shield_generator/shared_shd_sfs_modified_polyweb_advanced.iff	9	Sienar Fleet Systems Modified Polyweb Advanced Deflectors
+object/tangible/ship/components/shield_generator/shared_shd_sfs_polyweb_4.iff	8	Sienar Fleet Systems Polyweb 4 Shield
+object/tangible/ship/components/shield_generator/shared_shd_sfs_polyweb_6.iff	8	Sienar Fleet Systems Polyweb 6 Shield
+object/tangible/ship/components/shield_generator/shared_shd_sfs_polyweb_advanced.iff	9	Sienar Fleet Systems Polyweb Advanced Shield
+object/tangible/ship/components/shield_generator/shared_shd_sfs_polyweb_elite.iff	10	Sienar Fleet Systems Polyweb Elite Shield
+object/tangible/ship/components/shield_generator/shared_shd_shd_moncal_ionweb_prototype_b.iff	6	Moncal Ionweb Prototype B Shield
+object/tangible/ship/components/shield_generator/shared_shd_taim_advanced.iff	8	Taim & Bak Advanced
+object/tangible/ship/components/shield_generator/shared_shd_taim_elite.iff	10	Taim & Bak Elite
+object/tangible/ship/components/shield_generator/shared_shd_taim_enhanced_advanced.iff	9	Taim & Bak Enhanced Advanced
+object/tangible/ship/components/shield_generator/shared_shd_taim_heavy.iff	7	Taim & Bak Heavy
+object/tangible/ship/components/shield_generator/shared_shd_taim_standard.iff	4	Taim & Bak Standard Shields
+object/tangible/ship/components/shield_generator/shared_shd_taim_torton.iff	10	Taim Torton Heavy Shield
+object/tangible/ship/components/shield_generator/shared_shd_tiefighter_basic.iff	1	
+object/tangible/ship/components/shield_generator/shared_shd_unknown_holosteel_x1.iff	3	"Holosteel" X1 Shielding System
+object/tangible/ship/components/shield_generator/shared_shd_unknown_holosteel_x2.iff	3	"Holosteel" X2 Shielding System
+object/tangible/ship/components/shield_generator/shared_shd_unknown_proton_projector.iff	2	(Unknown) Proton Projector Shield
+object/tangible/ship/components/shield_generator/shared_shd_z95_basic.iff	1	Basic Shield Generator
+object/tangible/ship/components/shield_generator/shared_shield_generator_test.iff	1	
+object/tangible/ship/components/weapon/shared_weapon_incom_disruptor.iff	3	Incom Long-Range Disruptor
+object/tangible/ship/components/weapon/shared_weapon_slayn_ioncannon.iff	2	Slayn & Korpil Ion Cannon
+object/tangible/ship/components/weapon/shared_weapon_subpro_tripleblaster.iff	4	SubPro "Triple Blaster" Advanced Flash Cannon
+object/tangible/ship/components/weapon/shared_weapon_test.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_armek_advanced.iff	9	Armek Advanced
+object/tangible/ship/components/weapon/shared_wpn_armek_elite.iff	10	ArMek Elite Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_armek_sw4.iff	5	ArMek SW-4 Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_armek_sw6.iff	6	ArMek SW-6 Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_armek_sw7.iff	8	ArMek SW-7a Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_armek_sw8.iff	7	ArMek SW-8 Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_awing_blaster.iff	2	Standard A-Wing Blasters
+object/tangible/ship/components/weapon/shared_wpn_borstel_experimental.iff	9	
+object/tangible/ship/components/weapon/shared_wpn_borstel_rg9.iff	9	Borstel RG9 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_bwing_blaster.iff	2	Standard B-Wing Blasters
+object/tangible/ship/components/weapon/shared_wpn_capitalship_turret_test.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_corellian_1d.iff	7	Corellian 1D Servo Turrets
+object/tangible/ship/components/weapon/shared_wpn_corellian_ag1g_laser.iff	8	Corellian AG-1G Laser Cannons
+object/tangible/ship/components/weapon/shared_wpn_corellian_ag2g_quad_laser.iff	10	Corellian AG-2G Quad Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_corellian_cruiser_grade_blaster_mk1.iff	1	Corellian Cruiser-Grade Mark I Blaster
+object/tangible/ship/components/weapon/shared_wpn_corellian_heavy_gauss.iff	10	Corellian Beamrail Gauss Cannon
+object/tangible/ship/components/weapon/shared_wpn_corvette_turret_sm_s01.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_cygnus_destroyer_mk1.iff	1	Cygnus Mark I "Destroyer" Blaster
+object/tangible/ship/components/weapon/shared_wpn_cygnus_destroyer_mk2.iff	3	Cygnus "Destroyer" Class Blaster Mk2
+object/tangible/ship/components/weapon/shared_wpn_cygnus_elite.iff	10	Cygnus Elite Disruptor
+object/tangible/ship/components/weapon/shared_wpn_cygnus_eradicator_1.iff	8	Cygnus "Eradicator 1" Disruptor
+object/tangible/ship/components/weapon/shared_wpn_fastspray_2000_disruptor.iff	6	Cygnus "Fastspray 2000" Disruptor
+object/tangible/ship/components/weapon/shared_wpn_freitek_cannoneer_mk1.iff	3	FreiTek Inc. "Cannoneer" Mk1
+object/tangible/ship/components/weapon/shared_wpn_generic.iff	4	Generic Weapon
+object/tangible/ship/components/weapon/shared_wpn_gyrhil_auto_blaster.iff	8	Gyrhil 72 Twin Auto-Blasters
+object/tangible/ship/components/weapon/shared_wpn_gyrhil_r9x.iff	10	Gyrhil R-9X Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_haor_chall_speedblaster.iff	3	Haor Chall Speedblaster Cannon
+object/tangible/ship/components/weapon/shared_wpn_heavy_ionic_pulse_weapon.iff	10	Heavy Ionic Pulse Weapon
+object/tangible/ship/components/weapon/shared_wpn_hk_modified_scorcher_elite.iff	10	Hoersch-Kessel Modified Elite "Scorcher"
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher.iff	4	Hoersch-Kessel "Scorcher" Cannon
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher_2.iff	5	Hoersch-Kessel "Scorcher 2"
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher_3.iff	6	Hoersch-Kessel "Scorcher 3"
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher_advanced.iff	8	Hoersch-Kessel "Scorcher Advanced"
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher_elite.iff	9	Hoersch-Kessel "Scorcher Elite"
+object/tangible/ship/components/weapon/shared_wpn_hk_scorcher_heavy.iff	7	Hoersch-Kessel "Scorcher Heavy"
+object/tangible/ship/components/weapon/shared_wpn_hoersch_railgun.iff	10	Hoersch Railgun
+object/tangible/ship/components/weapon/shared_wpn_imperial_lancer_cannon.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_imperial_lancer_turret.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_incom_advanced_blaster.iff	6	Incom Advanced Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_blaster.iff	2	Incom Starship Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_disruptor.iff	3	Incom Long-Range Disruptor
+object/tangible/ship/components/weapon/shared_wpn_incom_elite_quad_blaster.iff	10	Incom Elite Quad Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_experimental.iff	9	
+object/tangible/ship/components/weapon/shared_wpn_incom_heavy_blaster.iff	7	Incom Heavy Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_heavy_quad_blaster.iff	9	Incom Heavy Quad Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_light_blaster.iff	1	Incom Light Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_proton_missile_s01.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_incom_quad_blaster.iff	8	Subpro/Incom Quad Blaster
+object/tangible/ship/components/weapon/shared_wpn_incom_seismic_missile_s01.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_incom_shredder.iff	2	Incom "Shredder" Cannon
+object/tangible/ship/components/weapon/shared_wpn_incom_tt13.iff	5	Incom TT13 Blasters
+object/tangible/ship/components/weapon/shared_wpn_incom_tt8.iff	4	Incom TT8 Blasters
+object/tangible/ship/components/weapon/shared_wpn_ionic_pulse_weapon.iff	7	Ionic Pulse Weapon
+object/tangible/ship/components/weapon/shared_wpn_kdy_pounder_mk1.iff	4	Kuat Drive Yards "Pounder" Mk1
+object/tangible/ship/components/weapon/shared_wpn_kessel_imperial_rendili_prototype_x.iff	9	Rendili "Prototype X" Disruptor
+object/tangible/ship/components/weapon/shared_wpn_kessel_imperial_sds_experimental_secret_ops.iff	10	Sienar Design Systems Experimental "Secret Ops" Blaster
+object/tangible/ship/components/weapon/shared_wpn_kessel_imperial_sfs_elite_ops.iff	9	Sienar Fleet Systems "Elite Ops" Blaster
+object/tangible/ship/components/weapon/shared_wpn_kessel_rebel_incom_dualcore_flashcannon.iff	9	Incom Dual-Core Flashcannon
+object/tangible/ship/components/weapon/shared_wpn_kessel_rebel_riiz_combine_slammer_cannon.iff	9	Riiz Combine "Slammer" Cannon
+object/tangible/ship/components/weapon/shared_wpn_kessel_rebel_unknown_rayslinger.iff	10	(Unknown Manufacturer) "Rayslinger" Blaster
+object/tangible/ship/components/weapon/shared_wpn_koensayr_deluxe_ion_accelerator.iff	4	Koensayr Deluxe Ion-Accelerator Cannon
+object/tangible/ship/components/weapon/shared_wpn_koensayr_ion_accelerator.iff	3	Koensayr Ion-Accelerator Cannon
+object/tangible/ship/components/weapon/shared_wpn_koensayr_ion_accelerator_2.iff	5	Koensayr Ion-Accelerator 2 Cannon
+object/tangible/ship/components/weapon/shared_wpn_koensayr_ion_accelerator_3.iff	6	Koensayr Ion-Accelerator 3 Cannon
+object/tangible/ship/components/weapon/shared_wpn_koensayr_ion_accelerator_advanced.iff	9	Koensayr Ion-Accelerator Advanced Cannon
+object/tangible/ship/components/weapon/shared_wpn_koensayr_light_disruptor.iff	1	Koensayr Light Disruptor
+object/tangible/ship/components/weapon/shared_wpn_koensayr_tuned_light_disruptor.iff	2	Koensayr Tuned Light Disruptor
+object/tangible/ship/components/weapon/shared_wpn_kse_double_blaster.iff	3	Kuat Systems Engineering Double Blaster
+object/tangible/ship/components/weapon/shared_wpn_kse_light_disruptor.iff	1	Kuat Systems Engineering Light Disruptor
+object/tangible/ship/components/weapon/shared_wpn_laser_beam_gun.iff	2	Tractor Beam
+object/tangible/ship/components/weapon/shared_wpn_mandal_advanced_annihilator.iff	9	MandalMotors Advanced Annihilator
+object/tangible/ship/components/weapon/shared_wpn_mandal_annihilator_mk2.iff	7	MandalMotors Annihilator Mk2
+object/tangible/ship/components/weapon/shared_wpn_mandal_annilhator_mk1.iff	6	MandalMotors Annilhator Mk1
+object/tangible/ship/components/weapon/shared_wpn_mandal_elite_annihilator.iff	10	MandalMotors Elite Annihilator
+object/tangible/ship/components/weapon/shared_wpn_mandal_enhanced_mangler_mk1.iff	2	MandalMotors Enhanced "Mangler" Cannon
+object/tangible/ship/components/weapon/shared_wpn_mandal_heavy_annihilator.iff	8	MandalMotors Heavy Annihilator
+object/tangible/ship/components/weapon/shared_wpn_mandal_mangler_mk1.iff	1	MandalMotors Mark I "Mangler" Cannon
+object/tangible/ship/components/weapon/shared_wpn_mandal_qv3_disruptor.iff	3	MandalMotors QV-3 Disruptor
+object/tangible/ship/components/weapon/shared_wpn_mandal_qv5_disruptor.iff	5	MandalMotors QV-5 Disruptor
+object/tangible/ship/components/weapon/shared_wpn_mandal_super_mangler.iff	4	MandalMotors "Super-Mangler" Cannon
+object/tangible/ship/components/weapon/shared_wpn_mining_laser_mk1.iff	2	Class I Mining Laser
+object/tangible/ship/components/weapon/shared_wpn_mining_laser_mk2.iff	4	Class II Mining Laser
+object/tangible/ship/components/weapon/shared_wpn_mining_laser_mk3.iff	6	Class III Mining Laser
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_imperial_cygnus_starblaster.iff	4	Cygnus "Starblaster" Disruptor
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_imperial_sds_boltdriver.iff	7	Sienar Design Systems "Boltdriver"
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_neutral_borstel_disruptor.iff	8	Borstel Disruptor
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_neutral_hk_military_blaster.iff	4	Hoersch-Kessel Military-Grade Blaster
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_neutral_mandal_light_blaster.iff	1	MandalMotors Light Blaster
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_rebel_incom_tricannon.iff	8	Incom "Tri-Cannon"
+object/tangible/ship/components/weapon/shared_wpn_mission_reward_rebel_taim_ion_driver.iff	4	Taim & Bak "Ion Driver"
+object/tangible/ship/components/weapon/shared_wpn_moncal_light_blaster.iff	2	Mon Calamari Light Blaster
+object/tangible/ship/components/weapon/shared_wpn_prototype_weapon.iff	1	Prototype Weapon
+object/tangible/ship/components/weapon/shared_wpn_prototype_weapon_tie.iff	1	Prototype Weapon
+object/tangible/ship/components/weapon/shared_wpn_red_cap_ship_cannon.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_red_cap_ship_turret.iff	3	
+object/tangible/ship/components/weapon/shared_wpn_rendili_advanced.iff	9	Rendili Advanced Blaster
+object/tangible/ship/components/weapon/shared_wpn_rendili_fr13_disruptor.iff	5	Rendili Fr13 Disruptor
+object/tangible/ship/components/weapon/shared_wpn_rendili_fr9_disruptor.iff	4	Rendili FR-9 Disruptor Cannon
+object/tangible/ship/components/weapon/shared_wpn_rendili_sc3_disruptor.iff	6	Rendili Sc3 Disruptor
+object/tangible/ship/components/weapon/shared_wpn_rendili_sc8_disruptor.iff	7	Rendili Sc8 Disruptor
+object/tangible/ship/components/weapon/shared_wpn_reward_incom_elite.iff	10	Elite INCOM Blaster
+object/tangible/ship/components/weapon/shared_wpn_reward_seinar_elite.iff	10	Elite Seinar Blaster
+object/tangible/ship/components/weapon/shared_wpn_reward_slayn_elite.iff	10	Elite Slayn & Korpil Blaster
+object/tangible/ship/components/weapon/shared_wpn_reward_subpro_elite.iff	10	Elite Subpro Blaster
+object/tangible/ship/components/weapon/shared_wpn_reward_taim_elite.iff	10	Elite Taim & Bak Blaster
+object/tangible/ship/components/weapon/shared_wpn_rss_imperial_cannon.iff	5	Republic Sienar Systems Imperial Cannon
+object/tangible/ship/components/weapon/shared_wpn_sds_elite.iff	9	Sienar Design Systems Elite Blasters
+object/tangible/ship/components/weapon/shared_wpn_sds_heavy_imperial_spc_forces_cannon.iff	8	Sienar Design Systems Heavy Imperial Special Forces Cannon
+object/tangible/ship/components/weapon/shared_wpn_sds_imperial_blaster_1.iff	1	Sienar Design Systems Imperial Blaster
+object/tangible/ship/components/weapon/shared_wpn_sds_imperial_blaster_2.iff	6	Sienar Design Systems Imperial Blaster 2
+object/tangible/ship/components/weapon/shared_wpn_sds_imperial_special_forces_cannon.iff	7	Sienar Design Systems Imperial Special Forces Cannon
+object/tangible/ship/components/weapon/shared_wpn_sds_modified_elite.iff	10	Sienar Design Systems Modified Elite Blaster
+object/tangible/ship/components/weapon/shared_wpn_seinar_concussion_missile_s01.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_seinar_disruptor.iff	2	Sienar Systems Starship Disruptor
+object/tangible/ship/components/weapon/shared_wpn_seinar_heatseeker_missile_s01.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_seinar_ion_cannon.iff	2	Sienar Systems Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_seinar_linked_cannon.iff	2	Sienar Systems Linked Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_seinar_ls1.iff	7	Sienar Fleet Systems L-s1 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_seinar_ls72.iff	10	Sienar Fleet Systems L-s7.2 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_sfs_elite.iff	9	Sienar Fleet Systems Elite Cannon
+object/tangible/ship/components/weapon/shared_wpn_sfs_imperial_blaster_1.iff	1	Sienar Fleet Systems Imperial Blaster
+object/tangible/ship/components/weapon/shared_wpn_sfs_imperial_blaster_2.iff	3	Sienar Fleet Systems Imperial-2 Blaster
+object/tangible/ship/components/weapon/shared_wpn_sfs_imperial_blaster_3.iff	5	Sienar Fleet Systems Imperial Blaster 3
+object/tangible/ship/components/weapon/shared_wpn_sfs_imperial_blaster_4.iff	6	Sienar Fleet Systems Imperial Blaster 4
+object/tangible/ship/components/weapon/shared_wpn_sfs_imperial_special_forces_blaster.iff	8	Sienar Fleet Systems Imperial Special Forces Blaster
+object/tangible/ship/components/weapon/shared_wpn_sfs_improved_imperial_blaster_2.iff	4	Sienar Fleet Systems Improved Imperial-2 Blaster
+object/tangible/ship/components/weapon/shared_wpn_slayn_deluxe_light_ioncannon.iff	2	Slayn & Korpil Deluxe Light Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_slayn_imagerec_missile_s01.iff		Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_wpn_slayn_ioncannon.iff	3	Slayn & Korpil Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_slayn_light_ioncannon.iff	1	Slayn & Korpil Light Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_spacestation_rebel_turret_s01.iff	1	
+object/tangible/ship/components/weapon/shared_wpn_spacestation_rebel_turret_s02.iff	1	
+object/tangible/ship/components/weapon/shared_wpn_star_destroyer_turret_dome.iff	1	
+object/tangible/ship/components/weapon/shared_wpn_star_destroyer_turret_med.iff	1	
+object/tangible/ship/components/weapon/shared_wpn_star_destroyer_turret_square.iff	1	
+object/tangible/ship/components/weapon/shared_wpn_std_countermeasure.iff	1	Generic Countermeasure Launcher
+object/tangible/ship/components/weapon/shared_wpn_subpro_advanced_cannon.iff	5	SubPro Advanced Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_improved_light_ioncannon.iff	2	SubPro Improved Light Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_light_ioncannon.iff	1	SubPro Light Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_modified_tricannon.iff	4	SubPro Modified Tri-Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_tricannon.iff	3	SubPro Tri-Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_tripleblaster.iff	4	SubPro "Triple Blaster" Advanced Flash Cannon
+object/tangible/ship/components/weapon/shared_wpn_subpro_tripleblaster_mark2.iff	6	Mark II Subpro Tripleblaster
+object/tangible/ship/components/weapon/shared_wpn_subpro_tripleblaster_mark3.iff	7	Subpro Tripleblaster Mark3
+object/tangible/ship/components/weapon/shared_wpn_taim_elite.iff	10	Taim & Bak Elite Blaster
+object/tangible/ship/components/weapon/shared_wpn_taim_heavy_laser.iff	8	Taim & Bak Ht-12 Heavy Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_taim_ix4.iff	4	Taim & Bak IX4 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_taim_ix5.iff	5	Taim & Bak IX5 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_taim_kx5.iff	6	Taim & Bak KX5 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_taim_kx8.iff	7	Taim & Bak KX8 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_taim_kx9.iff	9	Taim & Bak KX9 Laser Cannon
+object/tangible/ship/components/weapon/shared_wpn_tieadvanced_blaster.iff	2	TIE Advanced Generic Blaster
+object/tangible/ship/components/weapon/shared_wpn_tiefighter_basic.iff	1	Basic Weapon
+object/tangible/ship/components/weapon/shared_wpn_tractor_beam_gun.iff	2	Tractor Beam
+object/tangible/ship/components/weapon/shared_wpn_tractor_pulse_gun.iff	2	Tractor Beam
+object/tangible/ship/components/weapon/shared_wpn_trandoshan_fg1a.iff	7	Rendili FG1-A Blaster
+object/tangible/ship/components/weapon/shared_wpn_vengeance_ion_cannon.iff	8	Vengeance Ion Cannon
+object/tangible/ship/components/weapon/shared_wpn_vulcan_cannon.iff	10	Incom "Trandoshan Special" Repeater Cannon
+object/tangible/ship/components/weapon/shared_wpn_z95_basic.iff	1	Basic Weapon
+object/tangible/ship/components/weapon/shared_wpn_z95_blaster.iff	2	
+object/tangible/ship/components/weapon/shared_xwing_weapon_s01_test.iff	1	Generic Missile Launcher
+object/tangible/ship/components/weapon/shared_xwing_weapon_s02_test.iff	1	
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap1.iff	1	Corellian Cruiser-grade Weapons Capacitor "CAP1"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap10.iff	9	Corellian Cruiser-grade Weapons Capacitor "CAP10"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap2.iff	3	Corellian Cruiser-grade Weapons Capacitor "CAP2"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap3.iff	6	Corellian Cruiser-grade Weapons Capacitor "CAP3"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap5.iff	7	Corellian Cruiser-grade Weapons Capacitor "CAP5"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_cruiser_grade_cap9.iff	8	Corellian Cruiser-grade Weapons Capacitor "CAP9"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_deluxe_cruiser_grade_cap2.iff	4	Corellian Deluxe Cruiser-grade Weapons Capacitor "CAP2"
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_elite.iff	10	Corellian Elite Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_standard.iff	5	Corellian Standard Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_corellian_tuned_cruiser_grade_cap1.iff	2	Corellian Tuned Cruiser-grade Weapons Capacitor "CAP1"
+object/tangible/ship/components/weapon_capacitor/shared_cap_cygnus_cygcap_a.iff	2	Cygnus "Cyg-Cap A" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_cygnus_cygcap_b.iff	3	Cygnus "Cyg-Cap B" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_freitek_xd2.iff	3	FreiTek Inc. XD-2 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_gallofree_lt22.iff	4	Gallofree LT-22 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_generic.iff	1	Generic Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_haor_chall_old_capacitor.iff	1	Haor Chall Old-Tech Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_huppla_pasa_tisc_old_capacitor.iff	4	Huppla Pasa Tisc Old-Tech Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_incom_bjn825.iff	3	Incom BJN-825 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_incom_improved_rebel_mk1.iff	2	Incom Improved Mark I Rebel Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_incom_rebel_mk1.iff	1	Incom Mark I Rebel Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_incom_special_bjn825.iff	4	Incom Special BJN-825 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_imperial_rendili_hyperbattery.iff	9	Rendili "Hyperbattery" Elite Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_imperial_sds_imperial_finest.iff	10	Sienar Design Systems "Imperial Finest" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_imperial_sfs_array.iff	9	Sienar Fleet Systems Capacitor Array
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_rebel_armek_array.iff	9	Armek Elite Capacitor Array
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_rebel_deepwell_k33_prototype.iff	10	Incom Deepwell Prototype K-33 Prototype Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kessel_rebel_taim_hypercharger.iff	9	Taim & Bak "Hypercharger" Elite Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_custom_light.iff	2	Koensayr Custom Light Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_deluxe_mk4.iff	8	Koensayr Deluxe Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_elite_mk5.iff	10	Koensayr Elite Mark V Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_improved_light.iff	3	Koensayr Improved Light Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_light.iff	1	Koensayr Light Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_mk3.iff	5	Koensayr Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_mk4.iff	7	Koensayr Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_mk5.iff	9	Koensayr Mark V Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_rare_mk2.iff	4	Koensayr Rare Mark II Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_koensayr_tuned_mk3.iff	6	Koensayr Tuned Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_elite_mk5.iff	10	Kuat Systems Engineering Elite Mark V Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_limited_mk1.iff	2	Kuat Systems Engineering Limited Mark I Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_limited_mk4.iff	8	Kuat Systems Engineering Limited Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_mk1.iff	1	Kuat Systems Engineering Mark I Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_mk2.iff	3	Kuat Systems Engineering Mark II Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_mk3.iff	5	Kuat Systems Engineering Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_mk4.iff	7	Kuat Systems Engineering Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_mk5.iff	9	Kuat Systems Engineering Mark V Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_performance_mk2.iff	4	Kuat Systems Engineering Performance Mark II Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_kse_supercharged_mk3.iff	6	Kuat Systems Engineering Supercharged Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_improved_powermaster_mk3.iff	6	MandalMotors Improved Mark III "Powermaster" capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powermaster_mk1.iff	1	MandalMotors Mark I "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powermaster_mk2.iff	3	MandalMotors Mark II "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powermaster_mk3.iff	5	MandalMotors Mark III "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powermaster_mk4.iff	7	MandalMotors Mark IV "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powermaster_mk5.iff	9	MandalMotors Mark V "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_powersoak.iff	10	MandalMotors Powersoak (Original)
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_provider_p1.iff	10	MandalMotors "Provider" Model P1
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_rare_powermaster_mk4.iff	8	MandalMotors Rare Mark IV "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_special_powermaster_mk1.iff	2	MandalMotors Special Mark I "PowerMaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mandal_tuned_powermaster_mk2.iff	4	MandalMotors Tuned Mark II "Powermaster" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mission_reward_imperial_rendili_k_class.iff	6	Rendili "K-Class" Weapon Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mission_reward_neutral_sorosuub_v1.iff	6	SoroSuub "V-1" Weapon Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_mission_reward_rebel_qualdex_battery_array.iff	6	Qualdex Capacitor Battery Array
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_advanced.iff	7	Mon Calamari Advanced Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_charged_light.iff	2	Mon Calamari Charged Light Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_deluxe_elite.iff	10	Mon Calamari Deluxe Elite Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_elite.iff	9	Mon Calamari Elite Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_enhanced_advanced.iff	8	Mon Calamari Enhanced Advanced Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_heavy.iff	5	Mon Calamari Heavy Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_light.iff	1	Mon Calamari Light Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_modified_heavy.iff	6	Mon Calamari Modified Heavy Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_modified_standard.iff	4	Mon Calamari Modified Standard Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_moncal_standard.iff	3	Mon Calamari Standard Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_deluxe_wampa_s1.iff	7	Novaldex Deluxe Wampa S1
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_experimental.iff	10	Novaldex Experimental High-Capacitor (Unknown)
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_experimental_sarlacc_s1.iff	3	Novaldex Experimental Sarlacc S1
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_sarlacc_s1.iff	2	Novaldex Sarlacc S1
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_sarlacc_s2.iff	4	Novaldex Sarlacc S2
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_sarlacc_s3.iff	5	Novaldex Sarlacc S3
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_small_capacitor.iff	1	Novaldex Small Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_wampa_s1.iff	6	Novaldex Wampa S1
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_wampa_s2.iff	8	Novaldex Wampa S2
+object/tangible/ship/components/weapon_capacitor/shared_cap_novaldex_wampa_s3.iff	9	Novaldex Wampa S3
+object/tangible/ship/components/weapon_capacitor/shared_cap_prototype_capacitor.iff	1	Prototype Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_q3.iff	4	Qualdex Conservator Q3
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_q7.iff	7	Qualdex Conservator Q7 Prototype
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_qx1.iff	5	Qualdex Conservator QX1 Elite
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_qx2.iff	6	Qualdex Conservator QX2
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_qx3.iff	7	Qualdex Conservator QX3
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_qx4.iff	8	Qualdex Conservator QX4
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_conservator_qx5.iff	9	Qualdex Conservator QX5
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_experimental.iff	10	Qualdex Experimental (Unknown Model)
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_miser_elite.iff	3	Qualdex "Miser" Elite
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_miser_light.iff	1	Qualdex "Miser" Light
+object/tangible/ship/components/weapon_capacitor/shared_cap_qualdex_miser_standard.iff	2	Qualdex "Miser" Standard
+object/tangible/ship/components/weapon_capacitor/shared_cap_rendili_overseer_j7.iff	1	Rendili J7 "Overseer" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_rendili_overseer_j8.iff	4	Rendili J8 "Overseer" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_reward_mandal_elite.iff	10	Elite Mandal Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_reward_novaldex_elite.iff	10	Elite Novaldex Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_reward_qualdex_elite.iff	10	Elite Qualdex Capcitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_reward_sorosuub_elite.iff	10	Elite Sorosuub Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_reward_subpro_elite.iff	10	Elite Subpro Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_rss_imperial_1.iff	1	Republic Sienar Systems Mark I Imperial Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sds_imperial_1.iff	2	Sienar Design Systems Mark I Imperial Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sds_imperial_2.iff	3	Sienar Design Systems Imperial-2 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sds_special_imperial_2.iff	4	Sienar Design Systems Special Imperial-2 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sfs_imperial_1.iff	1	Sienar Fleet Systems Mark I Imperial Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_dynamo_mk1.iff	1	SoroSuub "Dynamo" Mark I Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_dynamo_mk2.iff	3	SoroSuub "Dynamo" Mark II Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_dynamo_mk3.iff	6	SoroSuub "Dynamo" Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_dynamo_mk4.iff	8	Sorosuub "Dynamo" Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_enhanced_dynamo_mk1.iff	2	SoroSuub Enhanced Mark I "Dynamo" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_flash.iff	5	SoroSuub "Flash" Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_premium_dynamo_mk2.iff	4	SoroSuub Premium "Dynamo" Mark II Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_supercharged_dynamo_mk4.iff	9	SoroSuub Supercharged "Dynamo" Mark IV Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_tuned_dynamo_mk3.iff	7	SoroSuub Tuned "Dynamo" Mark III Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_sorosuub_turbo.iff	10	SoroSuub Turbo Weapons Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_dauntless_z3.iff	8	SubPro "Dauntless" Z3 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_dauntless_z5.iff	9	SubPro "Dauntless" Z5 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_defiant_c1.iff	5	SubPro "Defiant" C1 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_defiant_c2.iff	7	SubPro "Defiant" C2 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_defiant_c3.iff	7	SubPro "Defiant" C3 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_experimental.iff	10	SubPro Experimental Capacitor (Unknown)
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_gallant_a1.iff	4	SubPro "Gallant" A1 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_improved_valiant_z1.iff	2	SubPro Improved "Valiant" Z1 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_modified_defiant_c1.iff	6	SubPro Modified Defiant C1 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_valiant_z1.iff	1	SubPro "Valiant" Z1 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_subpro_valiant_z2.iff	3	SubPro "Valiant" Z2 Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiburon.iff	7	
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiefighter_basic.iff	1	Basic Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiefighter_elite_mk1.iff	3	TIE Elite Capacitor Mark 1
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiefighter_elite_mk2.iff	6	TIE Elite Capacitor Mark 2
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiefighter_elite_mk3.iff	9	TIE Elite Capacitor Mark 3
+object/tangible/ship/components/weapon_capacitor/shared_cap_tiefighter_experimental.iff	10	Modified TIE Capacitor (Origin Unknown)
+object/tangible/ship/components/weapon_capacitor/shared_cap_unknown_experimental.iff	7	(Unknown) Weapons Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_z95_basic.iff	1	Basic Capacitor
+object/tangible/ship/components/weapon_capacitor/shared_cap_z95_deepwell_experimental.iff	10	Z95 Deepwell Capacitor (Experimental)
+object/tangible/ship/components/weapon_capacitor/shared_cap_z95_deepwell_k3.iff	2	Deepwell Capacitor Model K3
+object/tangible/ship/components/weapon_capacitor/shared_cap_z95_deepwell_k5.iff	5	Deepwell Capacitor Model K5
+object/tangible/ship/components/weapon_capacitor/shared_weapon_capacitor_test.iff	1	
+object/tangible/ship/crafted/armor/shared_adv_durasteel_plating.iff	7	Mark IV Durasteel Plating
+object/tangible/ship/crafted/armor/shared_adv_mandal_armor_plating.iff	7	MandalMotors Armor Plating
+object/tangible/ship/crafted/armor/shared_armor_reinforcement_panel_mk1.iff		Armor Reinforcement Panel - Mark I
+object/tangible/ship/crafted/armor/shared_armor_reinforcement_panel_mk2.iff		Armor Reinforcement Panel - Mark II
+object/tangible/ship/crafted/armor/shared_armor_reinforcement_panel_mk3.iff		Armor Reinforcement Panel - Mark III
+object/tangible/ship/crafted/armor/shared_armor_reinforcement_panel_mk4.iff		Armor Reinforcement Panel - Mark IV
+object/tangible/ship/crafted/armor/shared_armor_reinforcement_panel_mk5.iff		Armor Reinforcement Panel - Mark V
+object/tangible/ship/crafted/armor/shared_base_armor.iff	1	
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent.iff		Armor Component Upgrade
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent_mk1.iff		Mark I Armor Upgrade
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent_mk2.iff		Mark II Armor Upgrade (or Lower)
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent_mk3.iff		Mark III Armor Upgrade (or Lower)
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent_mk4.iff		Mark IV Armor Upgrade (or Lower)
+object/tangible/ship/crafted/armor/shared_base_armor_subcomponent_mk5.iff		Mark V Armor Upgrade (or Lower)
+object/tangible/ship/crafted/armor/shared_durasteel_plating.iff	3	Mark II Durasteel Plating
+object/tangible/ship/crafted/armor/shared_elite_armor.iff	10	Elite Armor (POB ship only)
+object/tangible/ship/crafted/armor/shared_experimental_armor.iff	9	Mark V Durasteel Plating
+object/tangible/ship/crafted/armor/shared_gunship_armor_mk1.iff	10	Gunship Armor Mark I
+object/tangible/ship/crafted/armor/shared_gunship_armor_mk2.iff	10	Gunship Armor Mark II
+object/tangible/ship/crafted/armor/shared_gunship_armor_mk3.iff	10	Gunship Armor Mark III
+object/tangible/ship/crafted/armor/shared_heavy_durasteel_plating.iff	5	Mark III Durasteel Plating
+object/tangible/ship/crafted/armor/shared_light_durasteel_plating.iff	1	Mark I Durasteel Plating
+object/tangible/ship/crafted/armor/shared_mass_reduction_kit_mk1.iff		Mass Reduction Kit - Mark I
+object/tangible/ship/crafted/armor/shared_mass_reduction_kit_mk2.iff		Mass Reduction Kit - Mark II
+object/tangible/ship/crafted/armor/shared_mass_reduction_kit_mk3.iff		Mass Reduction Kit - Mark III
+object/tangible/ship/crafted/armor/shared_mass_reduction_kit_mk4.iff		Mass Reduction Kit - Mark IV
+object/tangible/ship/crafted/armor/shared_mass_reduction_kit_mk5.iff		Mass Reduction Kit - Mark V
+object/tangible/ship/crafted/booster/shared_base_booster.iff	1	
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent.iff		Booster Component Upgrade
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent_mk1.iff		Mark I Booster Upgrade (or Lower)
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent_mk2.iff		Mark II Booster Upgrade (or Lower)
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent_mk3.iff		Mark III Booster Upgrade (or Lower)
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent_mk4.iff		Mark IV Booster Upgrade (or Lower)
+object/tangible/ship/crafted/booster/shared_base_booster_subcomponent_mk5.iff		Mark V Booster Upgrade (or Lower)
+object/tangible/ship/crafted/booster/shared_basic_booster.iff	1	Basic Booster
+object/tangible/ship/crafted/booster/shared_booster_mk1.iff	1	Mark I Booster
+object/tangible/ship/crafted/booster/shared_booster_mk2.iff	3	Mark II Booster
+object/tangible/ship/crafted/booster/shared_booster_mk3.iff	5	Mark III Booster
+object/tangible/ship/crafted/booster/shared_booster_mk4.iff	7	Mark IV Booster
+object/tangible/ship/crafted/booster/shared_booster_mk5.iff	9	Mark V Booster
+object/tangible/ship/crafted/booster/shared_booster_overdriver_mk1.iff		Booster Overdriver - Mark I
+object/tangible/ship/crafted/booster/shared_booster_overdriver_mk2.iff		Booster Overdriver - Mark II
+object/tangible/ship/crafted/booster/shared_booster_overdriver_mk3.iff		Booster Overdriver - Mark III
+object/tangible/ship/crafted/booster/shared_booster_overdriver_mk4.iff		Booster Overdriver - Mark IV
+object/tangible/ship/crafted/booster/shared_booster_overdriver_mk5.iff		Booster Overdriver - Mark V
+object/tangible/ship/crafted/booster/shared_collection_reward_booster_01_mk1.iff	1	Kuat Drive Yard Experimental Booster BR-1x
+object/tangible/ship/crafted/booster/shared_collection_reward_booster_01_mk2.iff	3	Kuat Drive Yard Experimental Booster BR-2x
+object/tangible/ship/crafted/booster/shared_collection_reward_booster_01_mk3.iff	5	Kuat Drive Yard Experimental Booster BR-3x
+object/tangible/ship/crafted/booster/shared_collection_reward_booster_01_mk4.iff	7	Kuat Drive Yard Experimental Booster BR-4x
+object/tangible/ship/crafted/booster/shared_collection_reward_booster_01_mk5.iff	9	Kuat Drive Yard Experimental Booster BR-5x
+object/tangible/ship/crafted/booster/shared_elite_booster.iff	10	Elite Booster (POB ship only)
+object/tangible/ship/crafted/booster/shared_extended_life_fuel_cell_mk1.iff		Extended Life Fuel Cell - Mark I
+object/tangible/ship/crafted/booster/shared_extended_life_fuel_cell_mk2.iff		Extended Life Fuel Cell - Mark II
+object/tangible/ship/crafted/booster/shared_extended_life_fuel_cell_mk3.iff		Extended Life Fuel Cell - Mark III
+object/tangible/ship/crafted/booster/shared_extended_life_fuel_cell_mk4.iff		Extended Life Fuel Cell - Mark IV
+object/tangible/ship/crafted/booster/shared_extended_life_fuel_cell_mk5.iff		Extended Life Fuel Cell - Mark V
+object/tangible/ship/crafted/booster/shared_fast_charge_fuel_cell_mk1.iff		Fast Charge Fuel Cell - Mark I
+object/tangible/ship/crafted/booster/shared_fast_charge_fuel_cell_mk2.iff		Fast Charge Fuel Cell - Mark II
+object/tangible/ship/crafted/booster/shared_fast_charge_fuel_cell_mk3.iff		Fast Charge Fuel Cell - Mark III
+object/tangible/ship/crafted/booster/shared_fast_charge_fuel_cell_mk4.iff		Fast Charge Fuel Cell - Mark IV
+object/tangible/ship/crafted/booster/shared_fast_charge_fuel_cell_mk5.iff		Fast Charge Fuel Cell - Mark V
+object/tangible/ship/crafted/booster/shared_heavy_fuel_cell_mk1.iff		Heavy Fuel Cell - Mark I
+object/tangible/ship/crafted/booster/shared_heavy_fuel_cell_mk2.iff		Heavy Fuel Cell - Mark II
+object/tangible/ship/crafted/booster/shared_heavy_fuel_cell_mk3.iff		Heavy Fuel Cell - Mark III
+object/tangible/ship/crafted/booster/shared_heavy_fuel_cell_mk4.iff		Heavy Fuel Cell - Mark IV
+object/tangible/ship/crafted/booster/shared_heavy_fuel_cell_mk5.iff		Heavy Fuel Cell - Mark V
+object/tangible/ship/crafted/booster/shared_itv_fuel_cell.iff		ITV Fuel Cell
+object/tangible/ship/crafted/booster/shared_itv_injection_tank.iff		ITV Injection Tank
+object/tangible/ship/crafted/booster/shared_xwing_booster_mk1.iff	2	Mark I X-Wing Booster
+object/tangible/ship/crafted/booster/shared_xwing_booster_mk2.iff	4	Mark II X-Wing Booster
+object/tangible/ship/crafted/capacitor/shared_base_capacitor.iff	1	
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent.iff		Capacitor Component Upgrade
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent_mk1.iff		Mark I Capacitor Upgrade (or Lower)
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent_mk2.iff		Mark II Capacitor Upgrade (or Lower)
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent_mk3.iff		Mark III Capacitor Upgrade (or Lower)
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent_mk4.iff		Mark IV Capacitor Upgrade (or Lower)
+object/tangible/ship/crafted/capacitor/shared_base_capacitor_subcomponent_mk5.iff		Mark V Capacitor Upgrade (or Lower)
+object/tangible/ship/crafted/capacitor/shared_basic_capacitor.iff	1	Basic Weapon Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk1.iff	1	Mark I Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk2.iff	3	Mark II Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk3.iff	5	Mark III Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk4.iff	7	Mark IV Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk5.iff	9	Mark V Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_capacitor_mk6.iff	9	Mark VI Weapons Capacitor
+object/tangible/ship/crafted/capacitor/shared_collection_reward_capacitor_01_mk1.iff	1	Deepwell Capacitor Prototype Alpha
+object/tangible/ship/crafted/capacitor/shared_collection_reward_capacitor_01_mk2.iff	3	Deepwell Capacitor Prototype Beta
+object/tangible/ship/crafted/capacitor/shared_collection_reward_capacitor_01_mk3.iff	5	Deepwell Capacitor Prototype Gamma
+object/tangible/ship/crafted/capacitor/shared_collection_reward_capacitor_01_mk4.iff	7	Deepwell Capacitor Prototype Delta
+object/tangible/ship/crafted/capacitor/shared_collection_reward_capacitor_01_mk5.iff	9	Deepwell Capacitor Prototype Epsilon
+object/tangible/ship/crafted/capacitor/shared_elite_capacitor.iff	10	Elite Capacitor (POB ship only)
+object/tangible/ship/crafted/capacitor/shared_energy_saver_battery_mk1.iff		Energy Saver Battery - Mark I
+object/tangible/ship/crafted/capacitor/shared_energy_saver_battery_mk2.iff		Energy Saver Battery - Mark II
+object/tangible/ship/crafted/capacitor/shared_energy_saver_battery_mk3.iff		Energy Saver Battery - Mark III
+object/tangible/ship/crafted/capacitor/shared_energy_saver_battery_mk4.iff		Energy Saver Battery - Mark IV
+object/tangible/ship/crafted/capacitor/shared_energy_saver_battery_mk5.iff		Energy Saver Battery - Mark V
+object/tangible/ship/crafted/capacitor/shared_extended_life_battery_mk1.iff		Extended Life Battery - Mark I
+object/tangible/ship/crafted/capacitor/shared_extended_life_battery_mk2.iff		Extended Life Battery - Mark II
+object/tangible/ship/crafted/capacitor/shared_extended_life_battery_mk3.iff		Extended Life Battery - Mark III
+object/tangible/ship/crafted/capacitor/shared_extended_life_battery_mk4.iff		Extended Life Battery - Mark IV
+object/tangible/ship/crafted/capacitor/shared_extended_life_battery_mk5.iff		Extended Life Battery - Mark V
+object/tangible/ship/crafted/capacitor/shared_gunship_capacitor_mk1.iff	10	Gunship Capacitor Mark I
+object/tangible/ship/crafted/capacitor/shared_gunship_capacitor_mk2.iff	10	Gunship Capacitor Mark II
+object/tangible/ship/crafted/capacitor/shared_gunship_capacitor_mk3.iff	10	Gunship Capacitor Mark III
+object/tangible/ship/crafted/capacitor/shared_heavy_battery_mk1.iff		Heavy Battery - Mark I
+object/tangible/ship/crafted/capacitor/shared_heavy_battery_mk2.iff		Heavy Battery - Mark II
+object/tangible/ship/crafted/capacitor/shared_heavy_battery_mk3.iff		Heavy Battery - Mark III
+object/tangible/ship/crafted/capacitor/shared_heavy_battery_mk4.iff		Heavy Battery - Mark IV
+object/tangible/ship/crafted/capacitor/shared_heavy_battery_mk5.iff		Heavy Battery - Mark V
+object/tangible/ship/crafted/capacitor/shared_mining_grade_capacitor.iff	10	Mining-Grade Capacitor
+object/tangible/ship/crafted/capacitor/shared_quick_recharge_battery_mk1.iff		Quick Recharge Battery - Mark I
+object/tangible/ship/crafted/capacitor/shared_quick_recharge_battery_mk2.iff		Quick Recharge Battery - Mark II
+object/tangible/ship/crafted/capacitor/shared_quick_recharge_battery_mk3.iff		Quick Recharge Battery - Mark III
+object/tangible/ship/crafted/capacitor/shared_quick_recharge_battery_mk4.iff		Quick Recharge Battery - Mark IV
+object/tangible/ship/crafted/capacitor/shared_quick_recharge_battery_mk5.iff		Quick Recharge Battery - Mark V
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_mining_large.iff	10	Large Cargo Hold (Y-8 only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_mining_medium.iff	10	Medium Cargo Hold (Y-8 only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_mining_small.iff	10	Small Cargo Hold (Y-8 only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_pob_gunship_huge.iff	10	Gunship Cargo Hold (POB only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_pob_huge.iff	10	Huge Cargo Hold (POB only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_pob_large.iff	10	Large Cargo Hold (POB only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_pob_medium.iff	10	Medium Cargo Hold (POB only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_pob_small.iff	10	Small Cargo Hold (POB only)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_starfighter_huge.iff	7	Huge Cargo Hold (Starfighter)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_starfighter_large.iff	7	Large Cargo Hold (Starfighter)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_starfighter_medium.iff	5	Medium Cargo Hold (Starfighter)
+object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_starfighter_small.iff	1	Small Cargo Hold (Starfighter)
+object/tangible/ship/crafted/chassis/shared_advanced_xwing_deed.iff		Advanced X-Wing Deed
+object/tangible/ship/crafted/chassis/shared_advanced_xwing_reward_deed.iff		Advanced X-Wing Deed
+object/tangible/ship/crafted/chassis/shared_advanced_z95_reward_deed.iff		Advanced Z-95 Deed
+object/tangible/ship/crafted/chassis/shared_arc170_deed.iff		ARC-170 Deed
+object/tangible/ship/crafted/chassis/shared_arc170_reward_deed.iff		ARC-170 Deed
+object/tangible/ship/crafted/chassis/shared_awing_deed.iff		A-Wing Deed
+object/tangible/ship/crafted/chassis/shared_blacksun_heavy_s01_deed.iff		Rihkxyrk Attack Ship Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_blacksun_heavy_s02_deed.iff		Rihkxyrk Attack Ship Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_blacksun_heavy_s03_deed.iff		Rihkxyrk Attack Ship Deed, Style 3
+object/tangible/ship/crafted/chassis/shared_blacksun_heavy_s04_deed.iff		Rihkxyrk Attack Ship Deed, Style 4
+object/tangible/ship/crafted/chassis/shared_blacksun_light_s01_deed.iff		Kihraxz Light Fighter Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_blacksun_light_s02_deed.iff		Kihraxz Light Fighter Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_blacksun_light_s03_deed.iff		Kihraxz Light Fighter Deed, Style 3
+object/tangible/ship/crafted/chassis/shared_blacksun_light_s04_deed.iff		Kihraxz Light Fighter Deed, Style 4
+object/tangible/ship/crafted/chassis/shared_blacksun_medium_s01_deed.iff		Ixiyen Fast Attack Craft Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_blacksun_medium_s02_deed.iff		Ixiyen Fast Attack Craft Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_blacksun_medium_s03_deed.iff		Ixiyen Fast Attack Craft Deed, Style 3
+object/tangible/ship/crafted/chassis/shared_blacksun_medium_s04_deed.iff		Ixiyen Fast Attack Craft Deed, Style 4
+object/tangible/ship/crafted/chassis/shared_blacksun_vaksai_deed.iff		TransGalMeg "Vaksai" Fighter Deed
+object/tangible/ship/crafted/chassis/shared_blacksun_vaksai_reward_deed.iff		TransGalMeg "Vaksai" Fighter Deed
+object/tangible/ship/crafted/chassis/shared_blacksun_vaksai_s02_deed.iff		Vaksai Heavy Starfighter Deed
+object/tangible/ship/crafted/chassis/shared_bwing_deed.iff		B-Wing Deed
+object/tangible/ship/crafted/chassis/shared_chassis_hutt_light_body.iff		Scyk Light Fighter Body
+object/tangible/ship/crafted/chassis/shared_chassis_hutt_light_wing_base.iff		Scyk Light Fighter Wings
+object/tangible/ship/crafted/chassis/shared_chassis_hutt_light_wing_s01.iff		Scyk Light Fighter Wings
+object/tangible/ship/crafted/chassis/shared_chassis_hutt_light_wing_s02.iff		Scyk Light Fighter Wings
+object/tangible/ship/crafted/chassis/shared_chassis_tiefighter_body.iff		TIE Fighter Body
+object/tangible/ship/crafted/chassis/shared_chassis_xwing_body.iff		X-Wing Body
+object/tangible/ship/crafted/chassis/shared_chassis_xwing_cockpit.iff		X-Wing Cockpit
+object/tangible/ship/crafted/chassis/shared_chassis_xwing_wing_l.iff		Left X-Wing Wing
+object/tangible/ship/crafted/chassis/shared_chassis_xwing_wing_r.iff		Right X-Wing Wing
+object/tangible/ship/crafted/chassis/shared_chassis_z95_body.iff		Z-95 Body
+object/tangible/ship/crafted/chassis/shared_chassis_z95_cockpit.iff		Z-95 Cockpit
+object/tangible/ship/crafted/chassis/shared_chassis_z95_wing_l.iff		Left Z-95 Wing
+object/tangible/ship/crafted/chassis/shared_chassis_z95_wing_r.iff		Right Z-95 Wing
+object/tangible/ship/crafted/chassis/shared_decimator_deed.iff		VT-49 Decimator Deed
+object/tangible/ship/crafted/chassis/shared_firespray_deed.iff		KSE Firespray Deed
+object/tangible/ship/crafted/chassis/shared_grievous_starfighter_reward_deed.iff		Belbullab-22 Deed
+object/tangible/ship/crafted/chassis/shared_grievous_starship_deed.iff		Belbullab-22 Deed
+object/tangible/ship/crafted/chassis/shared_gunship_imperial_deed.iff		Imperial YE-4 Gunship Deed
+object/tangible/ship/crafted/chassis/shared_gunship_neutral_deed.iff		Black Sun AEG-77 Vigo Gunship Deed
+object/tangible/ship/crafted/chassis/shared_gunship_rebel_deed.iff		Incom X4 Rebel Gunship Deed
+object/tangible/ship/crafted/chassis/shared_havoc_deed.iff		Havoc Starfighter Deed
+object/tangible/ship/crafted/chassis/shared_hutt_heavy_s01_deed.iff		Kimogila Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_hutt_heavy_s02_deed.iff		Kimogila Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_hutt_light_heavy_deed.iff		Scyk Light Fighter Deed (High Mass Variant)
+object/tangible/ship/crafted/chassis/shared_hutt_light_s01_deed.iff		Scyk Light Fighter Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_hutt_light_s02_deed.iff		Scyk Light Fighter Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_hutt_medium_s01_deed.iff		Dunelizard Deed, Style 1
+object/tangible/ship/crafted/chassis/shared_hutt_medium_s02_deed.iff		Dunelizard Deed, Style 2
+object/tangible/ship/crafted/chassis/shared_hutt_turret_ship_deed.iff		M22-T "Krayt" Heavy Fighter Deed
+object/tangible/ship/crafted/chassis/shared_jedi_starfighter_deed.iff		Eta-2 Actis Interceptor Deed
+object/tangible/ship/crafted/chassis/shared_jedi_starfighter_reward_deed.iff		Eta-2 Actis Interceptor Deed
+object/tangible/ship/crafted/chassis/shared_naboo_n1_deed.iff		Naboo N-1 Deed
+object/tangible/ship/crafted/chassis/shared_texture_kit_arc170_s01.iff		ARC-170 Texture Kit (Style 1)
+object/tangible/ship/crafted/chassis/shared_texture_kit_arc170_s02.iff		ARC-170 Texture Kit (Style 2)
+object/tangible/ship/crafted/chassis/shared_texture_kit_awing_s06.iff		A-Wing Texture Kit (Style 7)
+object/tangible/ship/crafted/chassis/shared_texture_kit_bwing_s06.iff		B-Wing Texture Kit (Style 7)
+object/tangible/ship/crafted/chassis/shared_texture_kit_bwing_s07.iff		B-Wing Texture Kit (Style 8)
+object/tangible/ship/crafted/chassis/shared_texture_kit_hutt_heavy_s01_s07.iff		Kimogila Style 1 Texture Kit (Style 7)
+object/tangible/ship/crafted/chassis/shared_texture_kit_s01.iff		Starship Texture Kit, Style 1
+object/tangible/ship/crafted/chassis/shared_texture_kit_s02.iff		Starship Texture Kit, Style 2
+object/tangible/ship/crafted/chassis/shared_texture_kit_s03.iff		Starship Texture Kit, Style 3
+object/tangible/ship/crafted/chassis/shared_texture_kit_s04.iff		Starship Texture Kit, Style 4
+object/tangible/ship/crafted/chassis/shared_texture_kit_s05.iff		Starship Texture Kit, Style 5
+object/tangible/ship/crafted/chassis/shared_texture_kit_s06.iff		Starship Texture Kit, Style 6
+object/tangible/ship/crafted/chassis/shared_texture_kit_xwing_s06.iff		X-Wing Texture Kit (Style 7)
+object/tangible/ship/crafted/chassis/shared_texture_kit_xwing_s07.iff		X-Wing Texture Kit (Style 8)
+object/tangible/ship/crafted/chassis/shared_texture_kit_ywing_longprobe_s06.iff		Y-Wing Longprobe Texture Kit (Style 6)
+object/tangible/ship/crafted/chassis/shared_texture_kit_ywing_s06.iff		Y-Wing Texture Kit (Style 6)
+object/tangible/ship/crafted/chassis/shared_texture_kit_z95_s06.iff		Z-95 Texture Kit (Style 7)
+object/tangible/ship/crafted/chassis/shared_texture_kit_z95_s07.iff		Z-95 Texture Kit (Style 8)
+object/tangible/ship/crafted/chassis/shared_tie_in_deed.iff		TIE/In Deed
+object/tangible/ship/crafted/chassis/shared_tie_light_duty_deed.iff		TIE Light Duty Fighter Deed
+object/tangible/ship/crafted/chassis/shared_tieadvanced_deed.iff		TIE Advanced Deed
+object/tangible/ship/crafted/chassis/shared_tieadvanced_modified_reward_deed.iff		TIE Advanced (Modified) Deed
+object/tangible/ship/crafted/chassis/shared_tieaggressor_deed.iff		TIE Aggressor Deed
+object/tangible/ship/crafted/chassis/shared_tiebomber_deed.iff		TIE Bomber Deed
+object/tangible/ship/crafted/chassis/shared_tiedefender_deed.iff		TIE Defender Deed
+object/tangible/ship/crafted/chassis/shared_tiefighter_deed.iff		TIE Fighter Deed
+object/tangible/ship/crafted/chassis/shared_tiefighter_modified_reward_deed.iff		TIE Fighter (Modified) Deed
+object/tangible/ship/crafted/chassis/shared_tieinterceptor_deed.iff		TIE Interceptor Deed
+object/tangible/ship/crafted/chassis/shared_tieinterceptor_imperial_guard_deed.iff		TIE Interceptor (Imperial Guard) Deed
+object/tangible/ship/crafted/chassis/shared_tieinterceptor_imperial_guard_reward_deed.iff		TIE Interceptor (Imperial Guard) Deed
+object/tangible/ship/crafted/chassis/shared_tieoppressor_deed.iff		TIE Oppressor Deed
+object/tangible/ship/crafted/chassis/shared_twing_deed.iff		T-Wing Interceptor Deed
+object/tangible/ship/crafted/chassis/shared_vwing_reward_deed.iff		V-wing Deed
+object/tangible/ship/crafted/chassis/shared_xwing_customization_kit.iff		Starship Paint Kit
+object/tangible/ship/crafted/chassis/shared_xwing_deed.iff		X-Wing Deed
+object/tangible/ship/crafted/chassis/shared_y8_mining_ship_deed.iff		Y-8 Mining Ship Deed
+object/tangible/ship/crafted/chassis/shared_ykl37r_deed.iff		YKL-37R Nova Courier Deed
+object/tangible/ship/crafted/chassis/shared_yt1300_deed.iff		YT-1300 Deed
+object/tangible/ship/crafted/chassis/shared_yt2400_deed.iff		YT-2400 Vessel Deed
+object/tangible/ship/crafted/chassis/shared_yt2400_reward_deed.iff		YT-2400 Vessel Deed
+object/tangible/ship/crafted/chassis/shared_ywing_deed.iff		Y-Wing Deed
+object/tangible/ship/crafted/chassis/shared_ywing_longprobe_deed.iff		Y-Wing "Longprobe" Deed
+object/tangible/ship/crafted/chassis/shared_z95_deed.iff		Z-95 Deed
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface.iff	1	
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent.iff		Droid Interface Component Upgrade
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent_mk1.iff		Mark I Droid Interface Upgrade (or Lower)
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent_mk2.iff		Mark II Droid Interface Upgrade (or Lower)
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent_mk3.iff		Mark III Droid Interface Upgrade (or Lower)
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent_mk4.iff		Mark IV Droid Interface Upgrade (or Lower)
+object/tangible/ship/crafted/droid_interface/shared_base_droid_interface_subcomponent_mk5.iff		Mark V Droid Interface Upgrade (or Lower)
+object/tangible/ship/crafted/droid_interface/shared_basic_droid_interface.iff	1	Basic Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_ddi_mk1.iff	1	Mark I Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_ddi_mk2.iff	3	Mark II Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_ddi_mk3.iff	5	Mark III Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_ddi_mk4.iff	7	Mark IV Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_ddi_mk5.iff	9	Mark V Droid Interface
+object/tangible/ship/crafted/droid_interface/shared_droid_brain_upgrade_mk1.iff		Droid Brain Upgrade - Mark I
+object/tangible/ship/crafted/droid_interface/shared_droid_brain_upgrade_mk2.iff		Droid Brain Upgrade - Mark II
+object/tangible/ship/crafted/droid_interface/shared_droid_brain_upgrade_mk3.iff		Droid Brain Upgrade - Mark III
+object/tangible/ship/crafted/droid_interface/shared_droid_brain_upgrade_mk4.iff		Droid Brain Upgrade - Mark IV
+object/tangible/ship/crafted/droid_interface/shared_droid_brain_upgrade_mk5.iff		Droid Brain Upgrade - Mark V
+object/tangible/ship/crafted/droid_interface/shared_maintenance_reduction_kit_mk1.iff		Maintenance Reduction Kit - Mark I
+object/tangible/ship/crafted/droid_interface/shared_maintenance_reduction_kit_mk2.iff		Maintenance Reduction Kit - Mark II
+object/tangible/ship/crafted/droid_interface/shared_maintenance_reduction_kit_mk3.iff		Maintenance Reduction Kit - Mark III
+object/tangible/ship/crafted/droid_interface/shared_maintenance_reduction_kit_mk4.iff		Maintenance Reduction Kit - Mark IV
+object/tangible/ship/crafted/droid_interface/shared_maintenance_reduction_kit_mk5.iff		Maintenance Reduction Kit - Mark V
+object/tangible/ship/crafted/engine/shared_base_engine.iff	1	
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent.iff		Engine Component Upgrade
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent_mk1.iff		Mark I Engine Upgrade (or Lower)
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent_mk2.iff		Mark II Engine Upgrade (or Lower)
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent_mk3.iff		Mark III Engine Upgrade (or Lower)
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent_mk4.iff		Mark IV Engine Upgrade (or Lower)
+object/tangible/ship/crafted/engine/shared_base_engine_subcomponent_mk5.iff		Mark V Engine Upgrade (or Lower)
+object/tangible/ship/crafted/engine/shared_basic_engine.iff	1	Basic Engine
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk1.iff	1	MandalMotors High Output Engine Prototype I
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk2.iff	3	MandalMotors High Output Engine Prototype II
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk3.iff	5	MandalMotors High Output Engine Prototype III
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk4.iff	7	MandalMotors High Output Engine Prototype IV
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_01_mk5.iff	9	MandalMotors High Output Engine Prototype V
+object/tangible/ship/crafted/engine/shared_collection_reward_engine_mk5.iff	9	
+object/tangible/ship/crafted/engine/shared_elite_engine.iff	10	Elite Engine (POB ship only)
+object/tangible/ship/crafted/engine/shared_eng_elite_mk2.iff	10	Incom Elite II Prototype (POB ship only)
+object/tangible/ship/crafted/engine/shared_eng_mk1.iff	1	Mark I Starfighter Engine
+object/tangible/ship/crafted/engine/shared_eng_mk2.iff	3	Mark II Starfighter Engine
+object/tangible/ship/crafted/engine/shared_eng_mk3.iff	5	Mark III Starfighter Engine
+object/tangible/ship/crafted/engine/shared_eng_mk4.iff	7	Mark IV Starfighter Engine
+object/tangible/ship/crafted/engine/shared_eng_mk5.iff	9	Mark V Starfighter Engine
+object/tangible/ship/crafted/engine/shared_eng_nova_01.iff	9	Nova Industries Mark V Engine
+object/tangible/ship/crafted/engine/shared_eng_orion_01.iff	9	Orion Industries Mark V Engine
+object/tangible/ship/crafted/engine/shared_eng_reward_experimental.iff	9	Experimental Starfighter Engine
+object/tangible/ship/crafted/engine/shared_engine_incom_fusialthrust.iff	4	Incom Fusial Thrust Engine
+object/tangible/ship/crafted/engine/shared_engine_limiter_mk1.iff		Engine Limiter - Mark I
+object/tangible/ship/crafted/engine/shared_engine_limiter_mk2.iff		Engine Limiter - Mark II
+object/tangible/ship/crafted/engine/shared_engine_limiter_mk3.iff		Engine Limiter - Mark III
+object/tangible/ship/crafted/engine/shared_engine_limiter_mk4.iff		Engine Limiter - Mark IV
+object/tangible/ship/crafted/engine/shared_engine_limiter_mk5.iff		Engine Limiter - Mark V
+object/tangible/ship/crafted/engine/shared_engine_novaldex_eventhorizon.iff	4	Novaldex J-77 "Event Horizon" Engine
+object/tangible/ship/crafted/engine/shared_engine_overdriver_mk1.iff		Engine Overdriver - Mark I
+object/tangible/ship/crafted/engine/shared_engine_overdriver_mk2.iff		Engine Overdriver - Mark II
+object/tangible/ship/crafted/engine/shared_engine_overdriver_mk3.iff		Engine Overdriver - Mark III
+object/tangible/ship/crafted/engine/shared_engine_overdriver_mk4.iff		Engine Overdriver - Mark IV
+object/tangible/ship/crafted/engine/shared_engine_overdriver_mk5.iff		Engine Overdriver - Mark V
+object/tangible/ship/crafted/engine/shared_engine_overhaul_mk1.iff		Engine Overhaul - Mark I
+object/tangible/ship/crafted/engine/shared_engine_overhaul_mk2.iff		Engine Overhaul - Mark II
+object/tangible/ship/crafted/engine/shared_engine_qualdex_kyromaster.iff	4	Qualdex "Kyromaster" Engine
+object/tangible/ship/crafted/engine/shared_engine_stabilizer_mk1.iff		Engine Stabilizer - Mark I
+object/tangible/ship/crafted/engine/shared_engine_stabilizer_mk2.iff		Engine Stabilizer - Mark II
+object/tangible/ship/crafted/modification/shared_blacksun_heavy_modification_s01.iff	1	Rihkxyrk Attack Ship Winglets
+object/tangible/ship/crafted/modification/shared_hutt_heavy_modification_s01.iff	1	Kimogila Heavy Fighter Winglets
+object/tangible/ship/crafted/modification/shared_tie_advanced_modification_s01.iff	1	TIE Advanced Winglets
+object/tangible/ship/crafted/modification/shared_xwing_modification_s01.iff	1	X-Wing Side Strakes
+object/tangible/ship/crafted/modification/shared_z95_modification_s01.iff	1	Z-95 Side Strakes
+object/tangible/ship/crafted/reactor/shared_base_reactor.iff	1	
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent.iff		Reactor Component Upgrade
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent_mk1.iff		Mark I Reactor Upgrade (or Lower)
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent_mk2.iff		Mark II Reactor Upgrade (or Lower)
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent_mk3.iff		Mark III Reactor Upgrade (or Lower)
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent_mk4.iff		Mark IV Reactor Upgrade (or Lower)
+object/tangible/ship/crafted/reactor/shared_base_reactor_subcomponent_mk5.iff		Mark V Reactor Upgrade (or Lower)
+object/tangible/ship/crafted/reactor/shared_basic_reactor.iff	1	Single Core Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_01_mk1.iff	1	Koensayr Reactor "Star Synthesis" Archetype A
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_01_mk2.iff	3	Koensayr Reactor "Star Synthesis" Archetype B
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_01_mk3.iff	5	Koensayr Reactor "Star Synthesis" Archetype C
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_01_mk4.iff	7	Koensayr Reactor "Star Synthesis" Archetype D
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_01_mk5.iff	9	Koensayr Reactor "Star Synthesis" Archetype E
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_02_mk1.iff	1	Koensayr Reactor "Star Synthesis" Archetype A
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_02_mk2.iff	3	Koensayr Reactor "Star Synthesis" Archetype B
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_02_mk3.iff	5	Koensayr Reactor "Star Synthesis" Archetype C
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_02_mk4.iff	7	Koensayr Reactor "Star Synthesis" Archetype D
+object/tangible/ship/crafted/reactor/shared_collection_reward_reactor_mk5.iff	9	
+object/tangible/ship/crafted/reactor/shared_elite_reactor.iff	10	Elite Reactor (POB ships only)
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mandal.iff	9	MandalMotors Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk1.iff	1	Mark I Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk2.iff	3	Mark II Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk3.iff	5	Mark III Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk4.iff	7	Mark IV Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk5.iff	9	Mark V Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_fusion_reactor_mk6.iff	9	Mark VI Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_gunship_reactor.iff	10	Gunship Reactor
+object/tangible/ship/crafted/reactor/shared_mining_grade_reactor.iff	10	Mining-Grade Reactor
+object/tangible/ship/crafted/reactor/shared_mustafar_fusion_reactor.iff	7	Modified Mark V Fusion Reactor
+object/tangible/ship/crafted/reactor/shared_reactor_limiter_mk1.iff		Reactor Limiter - Mark I
+object/tangible/ship/crafted/reactor/shared_reactor_limiter_mk2.iff		Reactor Limiter - Mark II
+object/tangible/ship/crafted/reactor/shared_reactor_limiter_mk3.iff		Reactor Limiter - Mark III
+object/tangible/ship/crafted/reactor/shared_reactor_limiter_mk4.iff		Reactor Limiter - Mark IV
+object/tangible/ship/crafted/reactor/shared_reactor_limiter_mk5.iff		Reactor Limiter - Mark V
+object/tangible/ship/crafted/reactor/shared_reactor_overcharger_mk1.iff		Reactor Overcharger - Mark I
+object/tangible/ship/crafted/reactor/shared_reactor_overcharger_mk2.iff		Reactor Overcharger - Mark II
+object/tangible/ship/crafted/reactor/shared_reactor_overcharger_mk3.iff		Reactor Overcharger - Mark III
+object/tangible/ship/crafted/reactor/shared_reactor_overcharger_mk4.iff		Reactor Overcharger - Mark IV
+object/tangible/ship/crafted/reactor/shared_reactor_overcharger_mk5.iff		Reactor Overcharger - Mark V
+object/tangible/ship/crafted/repair/shared_repair_kit_armor.iff		Armor Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_booster.iff		Booster Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_chassis.iff		Chassis Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_droid_interface.iff		Droid Interface Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_engine.iff		Engine Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_hull.iff		Hull Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_plasma_conduit.iff		Conduit Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_reactor.iff		Reactor Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_shield_generator.iff		Shield Generator Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_ship.iff		All Purpose Ship Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_weapon.iff		Weapon Repair Kit
+object/tangible/ship/crafted/repair/shared_repair_kit_weapon_capacitor.iff		Weapon Capacitor Repair Kit
+object/tangible/ship/crafted/reverse_engineering/shared_analysis_tool.iff		Component Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_armor_analysis_tool.iff		Armor Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_booster_analysis_tool.iff		Booster Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_capacitor_analysis_tool.iff		Weapon Capacitor Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_component_module.iff		Space Component Tracking Device
+object/tangible/ship/crafted/reverse_engineering/shared_component_module_chip.iff		Space Component Tagging Module
+object/tangible/ship/crafted/reverse_engineering/shared_droid_interface_analysis_tool.iff		Droid Interface Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_engine_analysis_tool.iff		Engine Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_interface_scanning_tool.iff		Droid Interface Scanner
+object/tangible/ship/crafted/reverse_engineering/shared_reactor_analysis_tool.iff		Reactor Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_retrofit_kit.iff		Retrofit Kit
+object/tangible/ship/crafted/reverse_engineering/shared_retrofit_kit_booster.iff		Booster Retrofit Mechanism
+object/tangible/ship/crafted/reverse_engineering/shared_retrofit_kit_engine.iff		Engine Retrofit Mechanism
+object/tangible/ship/crafted/reverse_engineering/shared_retrofit_kit_weapon.iff		Weapon Retrofit Mechanism
+object/tangible/ship/crafted/reverse_engineering/shared_shields_analysis_tool.iff		Shield Analysis Tool
+object/tangible/ship/crafted/reverse_engineering/shared_weapon_analysis_tool.iff		Weapon Analysis Tool
+object/tangible/ship/crafted/shields/shared_adv_deflector_shields.iff	7	Mark IV Deflector Shield Generator
+object/tangible/ship/crafted/shields/shared_base_shields.iff	1	
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent.iff		Shield Component Upgrade
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent_mk1.iff		Mark I Shield Upgrade (or Lower)
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent_mk2.iff		Mark II Shield Upgrade (or Lower)
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent_mk3.iff		Mark III Shield Upgrade (or Lower)
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent_mk4.iff		Mark IV Shield Upgrade (or Lower)
+object/tangible/ship/crafted/shields/shared_base_shields_subcomponent_mk5.iff		Mark V Shield Upgrade (or Lower)
+object/tangible/ship/crafted/shields/shared_basic_shields.iff	1	Basic Shield Generator
+object/tangible/ship/crafted/shields/shared_deflector_shields.iff	3	Mark II Deflector Shield Generator
+object/tangible/ship/crafted/shields/shared_elite_shields.iff	9	Elite Shields (POB ships only)
+object/tangible/ship/crafted/shields/shared_exp_deflector_shields.iff	9	Mark V Deflector Shield Generator
+object/tangible/ship/crafted/shields/shared_gunship_shields.iff	9	Gunship Shields
+object/tangible/ship/crafted/shields/shared_heavy_deflector_shields.iff	5	Mark III Deflector Shield Generator
+object/tangible/ship/crafted/shields/shared_light_deflector_shields.iff	1	Mark I Shield Generator
+object/tangible/ship/crafted/shields/shared_shield_energy_saver_kit_mk1.iff		Shield Energy Saver Kit - Mark I
+object/tangible/ship/crafted/shields/shared_shield_energy_saver_kit_mk2.iff		Shield Energy Saver Kit - Mark II
+object/tangible/ship/crafted/shields/shared_shield_energy_saver_kit_mk3.iff		Shield Energy Saver Kit - Mark III
+object/tangible/ship/crafted/shields/shared_shield_energy_saver_kit_mk4.iff		Shield Energy Saver Kit - Mark IV
+object/tangible/ship/crafted/shields/shared_shield_energy_saver_kit_mk5.iff		Shield Energy Saver Kit - Mark V
+object/tangible/ship/crafted/shields/shared_shield_high_capacity_projector_mk5.iff		High Capacity Projector - MK5
+object/tangible/ship/crafted/shields/shared_shield_intensifier_mk1.iff		Shield Intensifier - Mark I
+object/tangible/ship/crafted/shields/shared_shield_intensifier_mk2.iff		Shield Intensifier - Mark II
+object/tangible/ship/crafted/shields/shared_shield_intensifier_mk3.iff		Shield Intensifier - Mark III
+object/tangible/ship/crafted/shields/shared_shield_intensifier_mk4.iff		Shield Intensifier - Mark IV
+object/tangible/ship/crafted/shields/shared_shield_intensifier_mk5.iff		Shield Intensifier - Mark V
+object/tangible/ship/crafted/shields/shared_shield_limiter_mk1.iff		Shield Limiter - Mark I
+object/tangible/ship/crafted/shields/shared_shield_limiter_mk2.iff		Shield Limiter - Mark II
+object/tangible/ship/crafted/shields/shared_shield_limiter_mk3.iff		Shield Limiter - Mark III
+object/tangible/ship/crafted/shields/shared_shield_limiter_mk4.iff		Shield Limiter - Mark IV
+object/tangible/ship/crafted/shields/shared_shield_limiter_mk5.iff		Shield Limiter - Mark V
+object/tangible/ship/crafted/shields/shared_shield_overcharger_mk1.iff		Shield Overcharger - Mark I
+object/tangible/ship/crafted/shields/shared_shield_overcharger_mk2.iff		Shield Overcharger - Mark II
+object/tangible/ship/crafted/shields/shared_shield_overcharger_mk3.iff		Shield Overcharger - Mark III
+object/tangible/ship/crafted/shields/shared_shield_overcharger_mk4.iff		Shield Overcharger - Mark IV
+object/tangible/ship/crafted/shields/shared_shield_overcharger_mk5.iff		Shield Overcharger - Mark V
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_chaff_launcher.iff	1	Chaff Launcher
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_chaff_pack.iff		Chaff Pack
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_confuser_launcher.iff	7	IFF Confuser Launcher
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_confuser_pack.iff		IFF Confuser Pack
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_decoy_launcher.iff	3	Sensor Decoy Launcher
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_decoy_pack.iff		Sensor Decoy Pack
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_em_launcher.iff	9	EM Emitter Launcher
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_em_pack.iff		EM Emitter Pack
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_microchaff_launcher.iff	5	Micro-Chaff Launcher
+object/tangible/ship/crafted/weapon/missile/shared_countermeasure_microchaff_pack.iff		Micro-Chaff pack
+object/tangible/ship/crafted/weapon/missile/shared_weapon_basic_launcher.iff		Standard Missile Launcher
+object/tangible/ship/crafted/weapon/missile/shared_weapon_basic_pack.iff		Standard Homing Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_weapon_chaff_launcher.iff		Chaff Launcher
+object/tangible/ship/crafted/weapon/missile/shared_weapon_chaff_pack.iff		Chaff Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_concussion_missile_mk1.iff		Mark I Concussion Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_concussion_missile_mk2.iff		Mark II Concussion Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_concussion_missile_mk3.iff		Mark III Concussion Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_imagerec_missile_mk1.iff		Mark I Image-Rec Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_imagerec_missile_mk2.iff		Mark II Image-Rec Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_concussion_mk1.iff	2	Mark I Concussion Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_concussion_mk2.iff	5	Mark II Concussion Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_concussion_mk3.iff	8	Mark III Concussion Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_imagerec_mk1.iff	4	Mark I Image-Rec Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_imagerec_mk2.iff	7	Mark II Image-Rec Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_proton_mk1.iff	1	Mark I Proton Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_proton_mk2.iff	3	Mark II Proton Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_proton_mk3.iff	6	Mark III Proton Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_proton_mk4.iff	9	Mark IV Proton Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_seismic_mk1.iff	3	Mark I Seismic Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_seismic_mk2.iff	6	Mark II Seismic Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_seismic_mk3.iff	9	Mark III Seismic Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_spacebomb_mk1.iff	5	Mark I Spacebomb Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_launcher_spacebomb_mk2.iff	10	Mark II Spacebomb Launcher
+object/tangible/ship/crafted/weapon/missile/shared_wpn_proton_missile_mk1.iff		Mark I Proton Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_proton_missile_mk2.iff		Mark II Proton Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_proton_missile_mk3.iff		Mark III Proton Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_proton_missile_mk4.iff		Mark IV Proton Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_seismic_missile_mk1.iff		Mark I Seismic Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_seismic_missile_mk2.iff		Mark II Seismic Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_seismic_missile_mk3.iff		Mark III Seismic Missile Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_spacebomb_missile_mk1.iff		Mark I Spacebomb Pack
+object/tangible/ship/crafted/weapon/missile/shared_wpn_spacebomb_missile_mk2.iff		Mark II Spacebomb Pack
+object/tangible/ship/crafted/weapon/shared_armor_effectiveness_intensifier_mk1.iff		Armor Effectiveness Intensifier - Mark I
+object/tangible/ship/crafted/weapon/shared_armor_effectiveness_intensifier_mk2.iff		Armor Effectiveness Intensifier - Mark II
+object/tangible/ship/crafted/weapon/shared_armor_effectiveness_intensifier_mk3.iff		Armor Effectiveness Intensifier - Mark III
+object/tangible/ship/crafted/weapon/shared_armor_effectiveness_intensifier_mk4.iff		Armor Effectiveness Intensifier - Mark IV
+object/tangible/ship/crafted/weapon/shared_armor_effectiveness_intensifier_mk5.iff		Armor Effectiveness Intensifier - Mark V
+object/tangible/ship/crafted/weapon/shared_base_weapon.iff	1	
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent.iff		Weapon Component Upgrade
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent_mk1.iff		Mark I Weapon Upgrade (or Lower)
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent_mk2.iff		Mark II Weapon Upgrade (or Lower)
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent_mk3.iff		Mark III Weapon Upgrade (or Lower)
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent_mk4.iff		Mark IV Weapon Upgrade (or Lower)
+object/tangible/ship/crafted/weapon/shared_base_weapon_subcomponent_mk5.iff		Mark V Weapon Upgrade (or Lower)
+object/tangible/ship/crafted/weapon/shared_basic_weapon.iff	1	Mark I Laser Cannons
+object/tangible/ship/crafted/weapon/shared_max_damage_intensifier_mk1.iff		Max Damage Intensifier - Mark I
+object/tangible/ship/crafted/weapon/shared_max_damage_intensifier_mk2.iff		Max Damage Intensifier - Mark II
+object/tangible/ship/crafted/weapon/shared_max_damage_intensifier_mk3.iff		Max Damage Intensifier - Mark III
+object/tangible/ship/crafted/weapon/shared_max_damage_intensifier_mk4.iff		Max Damage Intensifier - Mark IV
+object/tangible/ship/crafted/weapon/shared_max_damage_intensifier_mk5.iff		Max Damage Intensifier - Mark V
+object/tangible/ship/crafted/weapon/shared_min_damage_intensifier_mk1.iff		Min Damage Intensifier - Mark I
+object/tangible/ship/crafted/weapon/shared_min_damage_intensifier_mk2.iff		Min Damage Intensifier - Mark II
+object/tangible/ship/crafted/weapon/shared_min_damage_intensifier_mk3.iff		Min Damage Intensifier - Mark III
+object/tangible/ship/crafted/weapon/shared_min_damage_intensifier_mk4.iff		Min Damage Intensifier - Mark IV
+object/tangible/ship/crafted/weapon/shared_min_damage_intensifier_mk5.iff		Min Damage Intensifier - Mark V
+object/tangible/ship/crafted/weapon/shared_quick_shot_upgrade_mk1.iff		Quick Shot Upgrade - Mark I
+object/tangible/ship/crafted/weapon/shared_quick_shot_upgrade_mk2.iff		Quick Shot Upgrade - Mark II
+object/tangible/ship/crafted/weapon/shared_quick_shot_upgrade_mk3.iff		Quick Shot Upgrade - Mark III
+object/tangible/ship/crafted/weapon/shared_quick_shot_upgrade_mk4.iff		Quick Shot Upgrade - Mark IV
+object/tangible/ship/crafted/weapon/shared_quick_shot_upgrade_mk5.iff		Quick Shot Upgrade - Mark V
+object/tangible/ship/crafted/weapon/shared_shield_effectiveness_intensifier_mk1.iff		Shield Effectiveness Intensifier - Mark I
+object/tangible/ship/crafted/weapon/shared_shield_effectiveness_intensifier_mk2.iff		Shield Effectiveness Intensifier - Mark II
+object/tangible/ship/crafted/weapon/shared_shield_effectiveness_intensifier_mk3.iff		Shield Effectiveness Intensifier - Mark III
+object/tangible/ship/crafted/weapon/shared_shield_effectiveness_intensifier_mk4.iff		Shield Effectiveness Intensifier - Mark IV
+object/tangible/ship/crafted/weapon/shared_shield_effectiveness_intensifier_mk5.iff		Shield Effectiveness Intensifier - Mark V
+object/tangible/ship/crafted/weapon/shared_speed_limiter_upgrade_mk1.iff		Speed Limiter Upgrade - Mark I
+object/tangible/ship/crafted/weapon/shared_speed_limiter_upgrade_mk2.iff		Speed Limiter Upgrade - Mark II
+object/tangible/ship/crafted/weapon/shared_speed_limiter_upgrade_mk3.iff		Speed Limiter Upgrade - Mark III
+object/tangible/ship/crafted/weapon/shared_speed_limiter_upgrade_mk4.iff		Speed Limiter Upgrade - Mark IV
+object/tangible/ship/crafted/weapon/shared_speed_limiter_upgrade_mk5.iff		Speed Limiter Upgrade - Mark V
+object/tangible/ship/crafted/weapon/shared_weapon_efficiency_booster.iff		Weapon Efficiency Booster
+object/tangible/ship/crafted/weapon/shared_weapon_incom_disruptor.iff	2	Incom Long-Range Disruptor
+object/tangible/ship/crafted/weapon/shared_weapon_slayn_ioncannon.iff	4	Slayn & Korpil Ion Cannon
+object/tangible/ship/crafted/weapon/shared_weapon_subpro_tripleblaster.iff	4	SubPro "Triple Blaster" Advanced Flash Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_advanced_blaster.iff	7	Advanced Blaster (Red)
+object/tangible/ship/crafted/weapon/shared_wpn_advanced_blaster_green.iff	7	Advanced Blaster (Green)
+object/tangible/ship/crafted/weapon/shared_wpn_advanced_disruptor.iff	7	Advanced Disruptor
+object/tangible/ship/crafted/weapon/shared_wpn_advanced_ioncannon.iff	7	Advanced Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_borstel_experimental.iff	8	Experimental Borstel Blaster
+object/tangible/ship/crafted/weapon/shared_wpn_crafted_mining_laser_elite.iff	9	Elite Mining Laser (Y8 only)
+object/tangible/ship/crafted/weapon/shared_wpn_crafted_mining_laser_mk1.iff	1	Mark I Mining Laser
+object/tangible/ship/crafted/weapon/shared_wpn_crafted_mining_laser_mk2.iff	5	Mark II Mining Laser
+object/tangible/ship/crafted/weapon/shared_wpn_crafted_mining_laser_mk3.iff	7	Mark III Mining Laser
+object/tangible/ship/crafted/weapon/shared_wpn_crafted_tractor_beam.iff	4	Tractor Beam
+object/tangible/ship/crafted/weapon/shared_wpn_elite_gauss.iff	10	Elite Gauss Cannon (POB ship only)
+object/tangible/ship/crafted/weapon/shared_wpn_elite_null_bolt.iff	10	'Null Bolt' Blaster (POB ship only)
+object/tangible/ship/crafted/weapon/shared_wpn_elite_railgun.iff	10	Elite Railgun (POB ship only)
+object/tangible/ship/crafted/weapon/shared_wpn_experimental_blaster.iff	9	Experimental Blaster (Red)
+object/tangible/ship/crafted/weapon/shared_wpn_experimental_blaster_green.iff	9	Experimental Blaster (Green)
+object/tangible/ship/crafted/weapon/shared_wpn_experimental_disruptor.iff	9	Experimental Disruptor
+object/tangible/ship/crafted/weapon/shared_wpn_experimental_ioncannon.iff	9	Experimental Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_heavy_blaster.iff	5	Heavy Blaster (Red)
+object/tangible/ship/crafted/weapon/shared_wpn_heavy_blaster_green.iff	5	Heavy Blaster (Green)
+object/tangible/ship/crafted/weapon/shared_wpn_heavy_disruptor.iff	5	Heavy Disruptor
+object/tangible/ship/crafted/weapon/shared_wpn_heavy_ioncannon.iff	5	Heavy Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_light_blaster.iff	1	Light Blaster (Red)
+object/tangible/ship/crafted/weapon/shared_wpn_light_blaster_green.iff	1	Light Blaster (Green)
+object/tangible/ship/crafted/weapon/shared_wpn_light_disruptor.iff	1	Light Disruptor
+object/tangible/ship/crafted/weapon/shared_wpn_light_ioncannon.iff	1	Light Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_medium_blaster.iff	3	Mid-Grade Blaster (Red)
+object/tangible/ship/crafted/weapon/shared_wpn_medium_blaster_green.iff	3	Mid-Grade Blaster (Green)
+object/tangible/ship/crafted/weapon/shared_wpn_medium_disruptor.iff	3	Mid-Grade Disruptor
+object/tangible/ship/crafted/weapon/shared_wpn_medium_ioncannon.iff	3	Mid-Grade Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_nova_ioncannon.iff	5	Nova Industries Prototype Ion Cannon
+object/tangible/ship/crafted/weapon/shared_wpn_orion_disruptor.iff	5	Orion Industries Prototype Disruptor

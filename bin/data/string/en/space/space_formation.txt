@@ -1,0 +1,3 @@
+arrow = Arrow
+claw = Claw
+wall = Wall

@@ -1,0 +1,12 @@
+blacksun = Black Sun
+civilian = Civilian
+corsair = Corsair
+hutt = Hutt
+imperial = Imperial
+merchant = Merchant
+nym = Nym
+pirate = Pirate
+rebel = Rebel
+rebel_suspect = Rebel Suspect
+trade_fed = Trade Federation
+valarian = Valarian

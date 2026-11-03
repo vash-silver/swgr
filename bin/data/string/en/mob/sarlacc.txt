@@ -1,0 +1,7 @@
+bile_already = You already have a good sample of bile.  It probably isn't wise to risk getting more.
+bile_fail = You fail to find enough bile to collect.  You need to wait for more to accumulate.
+bile_success = Despite being nearly overwhelmed by the stench of decay and the reaching tentacles, you manage to collect a sufficient sample of bile.
+extract_bile = Extract Bile
+sarlacc_dot = You suddenly feel weak and sick.
+sarlacc_erupt = The Sarlacc suddenly erupts, spewing a diseased and corrosive substance into the air!
+sarlacc_poison = The air is thick with the smell of rot and disease.

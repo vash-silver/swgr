@@ -1,0 +1,16 @@
+abort = Abort code recognized. Stand by for course change... ... Confirmed. You are authorized to leave the system.
+arrival_phase_1 = Your targeted entourage will arrive at any moment.
+arrival_phase_2 = The Star Kimogila has arrived. Disable the vessel and eliminate her escorts!
+capture_complete =  \#pcontrast3 Tactical Computer: < \#00ff00 Primary mission target capture operation complete! \#pcontrast3 >
+capture_phase_1 = Boarding party is facing light resistance.
+capture_phase_2 = Resistance eliminated. We've taken the bridge. We'll be underway shortly.
+capture_started =  \#pcontrast3 Tactical Computer: < \#00ff00 Primary mission target capture operation underway. \#pcontrast3 >
+complete = We've made it to safety. Jumping to lightspeed...now.
+escort_remaining =  \#pcontrast3 Tactical Computer: < \#00ff00 %DI ships remain in the vessel's escort. \#pcontrast3 >
+escort_wiped_out =  \#pcontrast3 Tactical Computer: < \#00ff00 The targeted vessel's escort has been eliminated. \#pcontrast3 >
+failed_destroy = The Star Kimogila was destroyed! This is unacceptable! Return to base at once. You are to blame for this failure!
+failed_escape = The Star Kimogila has escaped the area. This is a disgrace! Return to base at once!
+quest_update =  \#pcontrast3 Hutt Command: < \#pcontrast1 %TO \#pcontrast3 >
+recovery_success = The Star Kimogila has been secured. Good job, pilot.
+target_disabled =  \#pcontrast3 Tactical Computer: < \#00ff00 The Star Kimogila has been disabled. Capture operation will begin shortly. \#pcontrast3 >
+title = Capture the Star Kimogila

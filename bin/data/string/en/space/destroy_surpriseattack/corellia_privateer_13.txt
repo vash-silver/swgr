@@ -1,0 +1,5 @@
+complete = Good job, pilot. Return to base for your next assignment.
+duty_update = Superior Command:
+found_loc = Head to new coordinates uploaded to your nav computer.
+quest_update = Superior Command:
+title = Eliminate Tie Interceptors
