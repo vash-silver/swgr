@@ -14,7 +14,7 @@ set WIN=%OPT% -target:winexe
 pushd "%~dp0tools"
 if not exist ..\bin mkdir ..\bin
 
-call :cc %WIN% -main:SwgrTools -win32icon:swgr-tools.ico -out:../bin/swgr-tools.exe swgr-tools.cs overlay.cs parts.cs ui.cs parts-overlay.cs mob-details.cs xp-tracker.cs dps-meter.cs threat.cs credits.cs kill-sound.cs kill-streak.cs mobs-panel.cs flytext.cs || goto :fail
+call :cc %WIN% -main:SwgrTools -win32icon:swgr-tools.ico -out:../bin/swgr-tools.exe swgr-tools.cs overlay.cs parts.cs ui.cs parts-overlay.cs mob-details.cs xp-tracker.cs dps-meter.cs threat.cs credits.cs kill-sound.cs kill-streak.cs mobs-panel.cs flytext.cs chat-live.cs || goto :fail
 call :cc %OPT% -out:../bin/swgr-parts.exe parts.cs || goto :fail
 
 if /i not "%~1"=="all" goto :done

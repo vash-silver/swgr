@@ -129,6 +129,7 @@ sealed class SwgrTools : ApplicationContext {
     killSound.Killed += streak.Add;
     killSound.PitchStep = () => streak.Count - 1;
     killSound.Watch = true; // the streak panel counts kills even with the sound off
+    CombatTracker.LiveLines = ChatLive.Since; // combat lines from the Combat chat tab in memory, as they happen (read-only)
     CombatTracker.GameName = () => { if (!Parts.Alive()) Parts.Attach(); return Parts.PlayerName(); }; // your name from the game, so the DPS meter can tell you from your group
   }
 

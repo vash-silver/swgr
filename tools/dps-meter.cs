@@ -149,6 +149,13 @@ sealed class CombatTracker {
   // Set by swgr-tools: your character's name read from the game (Parts.PlayerName). Without it, "you" is whoever
   // deals the most hits, which is right with the "Self" filter but can pick a busy groupmate with "Group".
   public static Func<string> GameName;
+  // Set by swgr-tools: live combat lines from the Combat chat tab (ChatLive.Since). The log arrives in 50-line batches
+  // seconds apart, so while this returns lines the log is only followed (kept at its end), not parsed.
+  public static Func<long, Tuple<long, List<string>>> LiveLines;
+  long liveSeq;
+  bool live;
+  DateTime liveUntil; // time of the last live line: log lines up to it were already shown (the log lags by a batch)
+  public bool Live { get { return live; } }
   DateTime lastNameRead;
   string gameName;
 
@@ -186,6 +193,16 @@ sealed class CombatTracker {
         try { pos = new FileInfo(path).Length; } catch { pos = 0; }
       }
     }
+    var lr = LiveLines == null ? null : LiveLines(liveSeq);
+    if (lr != null) {
+      liveSeq = lr.Item1;
+      live = true;
+      var now = DateTime.Now;
+      foreach (var l in lr.Item2) { var e = CombatParser.Parse(l, now); if (e != null) { liveUntil = e.Time; Take(e); } } // one copy per line: no pair dedupe
+      CloseIfIdle(now);
+      return;
+    }
+    if (live) { live = false; liveSeq = 0; SkipLog(); } // back to the log: start at its end (those lines were shown live)
     if (path == null) return;
     try {
       using (var fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite | FileShare.Delete)) {
@@ -213,8 +230,14 @@ sealed class CombatTracker {
       if (l == prevLine && !prevSkipped) { prevSkipped = true; continue; }
       prevSkipped = false; prevLine = l;
       var e = CombatParser.Parse(l, now);
-      if (e != null) Take(e);
+      if (e != null && e.Time > liveUntil) Take(e);
     }
+  }
+
+  // Follow the log from its current end
+  void SkipLog() {
+    partial = ""; prevLine = null;
+    if (path != null) try { pos = new FileInfo(path).Length; } catch { }
   }
 
   void Take(CombatEvent e) {

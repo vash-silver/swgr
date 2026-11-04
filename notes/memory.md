@@ -186,4 +186,22 @@ The two vtables differ, so `credits.cs` checks them and rescans the first 0x2000
 
 While a character loads, both values read 0 for a moment before the real balances arrive. Taking that as the baseline logged the whole balance as earned (2026-11-03). `credits.cs` now skips 0/0 readings. For 5 s after a new baseline, any change only moves the baseline.
 
+## Chat tabs (live combat lines)
+
+Found 2026-11-04 because the chat log is written in batches of exactly 50 lines, 3–10 s apart in combat, so combat text read from the log trailed by seconds. The tab text in memory updates on every line.
+
+Every chat tab is a heap object whose **first qword is base + `0x1d9a4c8`**. That's module data with no RTTI, not a primary vtable. `SwgCuiChatWindow` is `0x1ceab28`, but no heap object starts with it. In one session there were 7 such objects, one per tab: CityChat, GroupChat, GuildChat, Chat, Combat, Instant Messages, System Message.
+
+| Offset | Type | Contents |
+|---|---|---|
+| `+0x70` | `std::wstring` | the tab's first channel name, e.g. `Combat` |
+| `+0xa8` | `std::wstring` | the tab's text, the **last 1001 lines** (a rolling window, about 66k chars): `hh:mm:ss \#rrggbb<text>\#.` per line, separated by `\n` |
+| `+0xc8` | `std::wstring` | a longer, growing copy (207k chars after a morning's play). Reallocated as it grows |
+
+With the colour codes (`\#rrggbb`, `\#.`) removed and `[Combat]  ` prepended, a line is identical to the log's, and `CombatParser` reads it unchanged. A tab shows each line once. The doubled lines in the log come from two tabs showing Combat. Timestamps are local time with 1 s resolution.
+
+No fixed pointer path is known yet. The tabs are referenced from small heap blocks: a 3-entry `vector<Tab*>` per chat window, whose begin/end/capacity sit in a pool of small nodes, not in an object with a vtable. There's no path within 4 hops of the HUD window manager. So `chat-live.cs` finds them with a multi-threaded heap scan for the marker on a background thread: about 8 s, against 56 s for `memread objs` single-threaded. It caches the result per game process in `bin/swgr-chatlive.cfg`, checks the marker on every read, and rescans every 30 s while no tab is found. It reads the string header and the last 2048 chars (4 KB) per poll, and finds new lines by matching the previous read's last 4 lines. Measured lag: every line arrived within the second of its own timestamp (mean 0.6 s, which is just the 1 s rounding), against 3–10 s from the log.
+
+After a client patch, re-check the marker: `memread objs 0x1d9a4c8` should list the tabs. If not, search the heap for a recent combat line (`memread findstr " pts" utf16`), find the big strings holding many lines, and follow `refs` to the tab object.
+
 The multi-crew sub-target investigation added `memread dumpchain <prefix>`. It dumps the player, seat, cell and ship (0x3000 bytes each) for diffing. In a gunner seat, the ship's `+0x1998` stays 0 with no target, so the overlay only uses that slot when you sit directly in the ship (a fighter).

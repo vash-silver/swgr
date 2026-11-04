@@ -164,6 +164,8 @@ sealed class GameReader : IDisposable {
   // Second line of the file: the player's timed buffs as crc:end, from the session the offset belongs to.
   // Third line: unix time a character was last seen loaded. The game clock can pause while you're logged out (buff
   // end times stay put and their time left is kept), so after a gap the offset is retried shifted by the gap.
+  // Fourth line: the gaps not yet checked against your buffs (seconds, summed). Kept in the file so a tools restart,
+  // or a loading screen, before the first check can't lose the logout gap (that once dropped the clock after a login).
   static readonly Dictionary<uint, uint> lastEnd = new Dictionary<uint, uint>();
   static long lastSeen, lastSeenSaved, resumeGap, loadedAt;
   static long clockOffset = LoadClock();
@@ -178,6 +180,7 @@ sealed class GameReader : IDisposable {
           if (p.Length == 2) lastEnd[Convert.ToUInt32(p[0], 16)] = uint.Parse(p[1]);
         }
       if (lines.Length > 2) lastSeen = lastSeenSaved = long.Parse(lines[2].Trim());
+      if (lines.Length > 3) resumeGap = long.Parse(lines[3].Trim());
       return long.Parse(lines[0].Trim());
     } catch { return 0; }
   }
@@ -185,7 +188,7 @@ sealed class GameReader : IDisposable {
     var parts = new List<string>();
     foreach (var kv in lastEnd) parts.Add(kv.Key.ToString("x8") + ":" + kv.Value);
     lastSeenSaved = lastSeen;
-    try { File.WriteAllLines(clockFile, new[] { clockOffset.ToString(), string.Join(",", parts), lastSeen.ToString() }); } catch { }
+    try { File.WriteAllLines(clockFile, new[] { clockOffset.ToString(), string.Join(",", parts), lastSeen.ToString(), resumeGap.ToString() }); } catch { }
   }
   static long UnixNow() { return (long)(DateTime.UtcNow - new DateTime(1970, 1, 1)).TotalSeconds; }
 
@@ -193,7 +196,7 @@ sealed class GameReader : IDisposable {
   static void Seen() {
     long now = UnixNow();
     if (lastSeen == 0 || now - lastSeen > 20) loadedAt = now; // first tick of a session or after a logout/loading screen
-    if (lastSeen != 0 && now - lastSeen > 20) resumeGap = now - lastSeen;
+    if (lastSeen != 0 && now - lastSeen > 20) resumeGap += now - lastSeen; // added up until checked: a loading screen mustn't replace a logout
     lastSeen = now;
     if (clockOffset != 0 && now - lastSeenSaved >= 15) SaveClock();
   }
@@ -271,7 +274,7 @@ sealed class GameReader : IDisposable {
       if (resumeGap > 0 && Fits(clockOffset + resumeGap, buffs)) { clockOffset += resumeGap; SaveClock(); }
       else clockOffset = 0;
       resumeGap = 0;
-    } else if (clockOffset != 0 && timed) resumeGap = 0; // the offset still fits: the clock kept running
+    } else if (clockOffset != 0 && timed && resumeGap != 0) { resumeGap = 0; SaveClock(); } // the offset still fits: the clock kept running
     if (fresh.Count == 0 || fresh.Count > 2 || before.Count == 0 || !now.Overlaps(before)) return;
     long offset = UnixNow() - ((long)fresh[0].End - fresh[0].Duration);
     if ((clockOffset != 0 && Math.Abs(offset - clockOffset) > 10) || !Fits(offset, buffs)) return; // small refinements only

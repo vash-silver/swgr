@@ -27,12 +27,11 @@ sealed class FlyText {
 
   internal readonly FlyZone[] Zones = new FlyZone[3];
   internal readonly CombatTracker Tracker = new CombatTracker();
-  readonly Timer timer = new Timer { Interval = 30 };
+  readonly Timer timer = new Timer { Interval = 15 }; // ~one tick per Windows timer period: the log is read every tick
   readonly string cfgFile = Path.Combine(Path.GetDirectoryName(Application.ExecutablePath), "swgr-flytext.cfg");
   readonly Dictionary<string, DateTime> attackers = new Dictionary<string, DateTime>(); // who hit you lately: their misses were aimed at you
   readonly List<Tuple<DateTime, Action>> demo = new List<Tuple<DateTime, Action>>();
   readonly bool hosted;
-  DateTime lastPoll;
   internal string MeOverride; // --render: a fake character name
   internal DateTime? Frozen;
   internal DateTime Now { get { return Frozen ?? DateTime.Now; } }
@@ -258,7 +257,7 @@ sealed class FlyText {
 
   void Step() {
     var now = Now;
-    if ((now - lastPoll).TotalMilliseconds >= 60) { lastPoll = now; if (Frozen == null) Tracker.Poll(); }
+    if (Frozen == null) Tracker.Poll(); // every tick: a number shows within ~15 ms of the game writing its line
     for (int i = demo.Count - 1; i >= 0; i--) if (demo[i].Item1 <= now) { var a = demo[i].Item2; demo.RemoveAt(i); a(); }
     if (attackers.Count > 50) foreach (var k in attackers.Where(kv => (now - kv.Value).TotalSeconds > 30).Select(kv => kv.Key).ToList()) attackers.Remove(k);
     foreach (var z in Zones) z.Step();
