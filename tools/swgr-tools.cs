@@ -66,6 +66,7 @@ sealed class SwgrTools : ApplicationContext {
         if (kv[0] == "streak") streakOn = kv[1] == "1";
         if (kv[0] == "mobs") mobsOn = kv[1] == "1";
         if (kv[0] == "fly") flyOn = kv[1] == "1";
+        if (kv[0] == "gamefocus") LayeredForm.GameFocusOnly = kv[1] == "1";
       }
     } catch { }
 
@@ -101,6 +102,9 @@ sealed class SwgrTools : ApplicationContext {
     menu.Items.Add(killSound.Menu("Kill sound"));
     menu.Items.Add("Scan inventory for ship parts...", null, (s, e) => ShowMain(ToolsWindow.SCAN));
     menu.Items.Add(new ToolStripSeparator());
+    var focusItem = new ToolStripMenuItem("Only show while the game has focus", null, (s, e) => GameFocusOnly = !GameFocusOnly);
+    menu.Opening += (s, e) => focusItem.Checked = GameFocusOnly;
+    menu.Items.Add(focusItem);
     menu.Items.AddRange(UiLook.MenuItems());
     menu.Items.Add(new ToolStripSeparator());
     menu.Items.Add("Exit", null, (s, e) => ExitThread());
@@ -135,7 +139,17 @@ sealed class SwgrTools : ApplicationContext {
 
   internal void SetOn(int which, bool on) {
     if (which == HP) hp.Active = on; else if (which == MOB) mob.Active = on; else if (which == XP) xp.Active = on; else if (which == DPS) dps.Active = on; else if (which == SELF) self.Active = on; else if (which == THREAT) threat.Active = on; else if (which == CREDITS) credits.Active = on; else if (which == STREAK) streak.Active = on; else if (which == MOBS) mobs.Active = on; else if (which == FLY) fly.Active = on; else parts.Active = on;
-    try { File.WriteAllLines(cfgFile, new[] { "hp=" + (hp.Active ? 1 : 0), "parts=" + (parts.Active ? 1 : 0), "mob=" + (mob.Active ? 1 : 0), "xp=" + (xp.Active ? 1 : 0), "dps=" + (dps.Active ? 1 : 0), "self=" + (self.Active ? 1 : 0), "threat=" + (threat.Active ? 1 : 0), "credits=" + (credits.Active ? 1 : 0), "streak=" + (streak.Active ? 1 : 0), "mobs=" + (mobs.Active ? 1 : 0), "fly=" + (fly.Active ? 1 : 0) }); } catch { }
+    Save();
+  }
+
+  // Overlays stay hidden (fully transparent) while another program is in front
+  internal bool GameFocusOnly {
+    get { return LayeredForm.GameFocusOnly; }
+    set { LayeredForm.GameFocusOnly = value; Save(); }
+  }
+
+  void Save() {
+    try { File.WriteAllLines(cfgFile, new[] { "hp=" + (hp.Active ? 1 : 0), "parts=" + (parts.Active ? 1 : 0), "mob=" + (mob.Active ? 1 : 0), "xp=" + (xp.Active ? 1 : 0), "dps=" + (dps.Active ? 1 : 0), "self=" + (self.Active ? 1 : 0), "threat=" + (threat.Active ? 1 : 0), "credits=" + (credits.Active ? 1 : 0), "streak=" + (streak.Active ? 1 : 0), "mobs=" + (mobs.Active ? 1 : 0), "fly=" + (fly.Active ? 1 : 0), "gamefocus=" + (LayeredForm.GameFocusOnly ? 1 : 0) }); } catch { }
     if (main != null && !main.IsDisposed) main.SyncOverlays();
   }
 
@@ -305,6 +319,11 @@ sealed class ToolsWindow : Form {
     var col = Column();
     col.Controls.Add(Heading("Overlays"));
     col.Controls.Add(Help("Small always-on-top windows over the game. Drag one to move it; right-click it for its own options."));
+    var gf = Row(0);
+    Check(gf, "Only show while the game has focus", () => host.GameFocusOnly, v => host.GameFocusOnly = v);
+    gf.Margin = UiLook.Pad(0, 0, 0, 0);
+    col.Controls.Add(gf);
+    col.Controls.Add(Help("Alt-tab away and every overlay disappears until the game is back in front. This window and the overlays' own menus count as the game, so previews still show while you change settings here.", 20));
     for (int i = 0; i < overlayBoxes.Length; i++) {
       int idx = i;
       var cb = overlayBoxes[i] = new CheckBox { Text = SwgrTools.OverlayNames[i], AutoSize = true, ForeColor = TextColor,

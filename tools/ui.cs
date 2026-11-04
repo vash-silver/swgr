@@ -161,6 +161,50 @@ class LayeredForm : Form {
     SetWindowPos(Handle, new IntPtr(-1), 0, 0, 0, 0, 0x1 | 0x2 | 0x10 | 0x200); // HWND_TOPMOST; NOSIZE | NOMOVE | NOACTIVATE | NOOWNERZORDER
   }
 
+  // ---- only while the game has focus: when another program is in front, every overlay is presented fully
+  // transparent (and so click-through) instead of hidden, so each panel's own Visible logic stays untouched.
+  // Our own windows (the tools window, a menu, a dragged overlay) count as the game.
+  [DllImport("user32.dll")] static extern IntPtr GetForegroundWindow();
+  [DllImport("user32.dll")] static extern uint GetWindowThreadProcessId(IntPtr hWnd, out uint pid);
+  static readonly List<WeakReference> all = new List<WeakReference>();
+  static Timer focusTimer;
+  static bool gameFocusOnly = true, gameFront = true;
+  static uint lastPid, ownPid = (uint)System.Diagnostics.Process.GetCurrentProcess().Id;
+  static bool lastPidIsGame;
+
+  internal static bool GameFocusOnly {
+    get { return gameFocusOnly; }
+    set { if (gameFocusOnly == value) return; gameFocusOnly = value; RepaintAll(); }
+  }
+
+  static bool Hidden { get { return gameFocusOnly && !gameFront; } }
+
+  static void RepaintAll() {
+    all.RemoveAll(w => !w.IsAlive);
+    foreach (var w in all.ToArray()) { var f = w.Target as LayeredForm; if (f != null && !f.IsDisposed && f.IsHandleCreated) f.Invalidate(); }
+  }
+
+  static bool ForegroundIsGame() {
+    uint pid;
+    GetWindowThreadProcessId(GetForegroundWindow(), out pid);
+    if (pid == 0) return false;
+    if (pid == ownPid) return true;
+    if (pid != lastPid) {
+      lastPid = pid;
+      try { using (var p = System.Diagnostics.Process.GetProcessById((int)pid)) lastPidIsGame = p.ProcessName.Equals("SwgClient_r", StringComparison.OrdinalIgnoreCase); }
+      catch { lastPidIsGame = false; }
+    }
+    return lastPidIsGame;
+  }
+
+  static void StartFocusWatch() {
+    if (focusTimer != null) return;
+    gameFront = ForegroundIsGame();
+    focusTimer = new Timer { Interval = 150 };
+    focusTimer.Tick += (s, e) => { bool g = ForegroundIsGame(); if (g != gameFront) { gameFront = g; if (gameFocusOnly) RepaintAll(); } };
+    focusTimer.Start();
+  }
+
   // Rounded panel corners in device pixels (0 = square): the corners outside become fully transparent
   protected virtual float CornerRadius { get { return 0; } }
 
@@ -213,7 +257,7 @@ class LayeredForm : Form {
   protected override void OnInvalidated(InvalidateEventArgs e) { base.OnInvalidated(e); Schedule(); }
   protected override void OnSizeChanged(EventArgs e) { base.OnSizeChanged(e); Schedule(); }
   protected override void OnVisibleChanged(EventArgs e) { base.OnVisibleChanged(e); if (Visible) Present(); }
-  protected override void OnHandleCreated(EventArgs e) { base.OnHandleCreated(e); Present(); }
+  protected override void OnHandleCreated(EventArgs e) { base.OnHandleCreated(e); all.Add(new WeakReference(this)); StartFocusWatch(); Present(); }
 
   // Several Invalidate calls in one tick become one repaint
   void Schedule() {
@@ -233,8 +277,9 @@ class LayeredForm : Form {
 
   void Present() {
     if (!IsHandleCreated || IsDisposed || Width <= 0 || Height <= 0) return;
+    bool hidden = Hidden;
     using (var bmp = new Bitmap(Width, Height, PixelFormat.Format32bppArgb)) {
-      using (var g = Graphics.FromImage(bmp)) {
+      if (!hidden) using (var g = Graphics.FromImage(bmp)) {
         int a = (int)Math.Round(BackOpacity * 2.55);
         float r = CornerRadius;
         if (r <= 0) g.Clear(Color.FromArgb(Math.Max(1, a), BackColor));
@@ -250,7 +295,7 @@ class LayeredForm : Form {
       try {
         var size = new SIZE { cx = bmp.Width, cy = bmp.Height };
         var src = new POINT();
-        var blend = new BLENDFUNCTION { BlendOp = 0, BlendFlags = 0, SourceConstantAlpha = (byte)Math.Round(PanelOpacity * 2.55 * Math.Max(0, Math.Min(1, Fade))), AlphaFormat = 1 };
+        var blend = new BLENDFUNCTION { BlendOp = 0, BlendFlags = 0, SourceConstantAlpha = hidden ? (byte)0 : (byte)Math.Round(PanelOpacity * 2.55 * Math.Max(0, Math.Min(1, Fade))), AlphaFormat = 1 };
         UpdateLayeredWindow(Handle, screen, IntPtr.Zero, ref size, mem, ref src, 0, ref blend, ULW_ALPHA);
       } finally {
         SelectObject(mem, old); DeleteObject(hb); DeleteDC(mem); ReleaseDC(IntPtr.Zero, screen);
